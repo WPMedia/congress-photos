@@ -11,21 +11,22 @@ const bioguides = Object.keys(membersByBioguide)
 const fullNames = Object.keys(membersByFullName)
 const lastNames = Object.keys(membersByLastNames)
 
-const memberLookup = (value, opts) => {
+const memberLookup = (value, opts = {}) => {
   if (bioguides.includes(value)) return membersByBioguide[value]
   if (fullNames.includes(value)) return membersByFullName[value]
   if (lastNames.includes(value)) {
     const matchingMems = membersByLastNames[value]
     const multipleMems = matchingMems.length > 1
     if (multipleMems) {
-      if (!opts) throw Error('Designate a body or state to find the correct member')
-      const { state, body } = opts
-      const memFromState = matchingMems
+      const { state, body, party } = opts
+      const memsFromOpts = matchingMems
         .filter(mem => state ? mem.state === state : mem)
         .filter(mem => body ? mem.type === body : mem)
+        .filter(mem => party ? mem.party === party : mem)
       
-      if (memFromState.length < 1) throw Error('There are no members matching the stated options')
-      return memFromState
+      if (memsFromOpts.length < 1) throw Error('There are no members matching the stated options')
+      if (memsFromOpts.length === 1) return memsFromOpts[0]
+      return memsFromOpts
     }
     return multipleMems
   }
