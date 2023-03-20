@@ -1,5 +1,5 @@
 const constructUrl = (bg, last, size) => {
-  return `https://www.fake-url.s3/${bg}_${last}_${size}.png`
+  return `https://${bg}_${last}_${size}.png`
 }
 
 const reduceMems = (allMembers, keyBy) => {
@@ -41,8 +41,14 @@ const sortWithImgUrls = (allMembers) => {
   return sortAndUrls
 }
 
+const checkValue = (val, check) => {
+  if (!check) return true
+  return val === check
+}
+
 module.exports = {
   reduceMems,
   constructUrl,
   sortWithImgUrls,
+  checkValue,
 }

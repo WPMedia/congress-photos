@@ -1,5 +1,5 @@
 const allMembers = require('./members_of_congress.json')
-const { reduceMems, sortWithImgUrls } = require('./utils')
+const { reduceMems, sortWithImgUrls, checkValue } = require('./utils')
 
 const sortedMembers = sortWithImgUrls(allMembers)
 
@@ -18,11 +18,15 @@ const memberLookup = (value, opts = {}) => {
     const matchingMems = membersByLastNames[value]
     const multipleMems = matchingMems.length > 1
     if (multipleMems) {
-      const { state, body, party } = opts
+      const { state, body, party, district } = opts
       const memsFromOpts = matchingMems
-        .filter(mem => state ? mem.state === state : mem)
-        .filter(mem => body ? mem.type === body : mem)
-        .filter(mem => party ? mem.party === party : mem)
+        .filter(mem => {
+          const checkState = checkValue(mem.state, state)
+          const checkBody = checkValue(mem.type, body)
+          const checkParty = checkValue(mem.party, party)
+          const checkDistrict = checkValue(mem.district, district)
+          return checkState && checkBody && checkParty && checkDistrict
+        })
       
       if (memsFromOpts.length < 1) throw Error('There are no members matching the stated options')
       if (memsFromOpts.length === 1) return memsFromOpts[0]
