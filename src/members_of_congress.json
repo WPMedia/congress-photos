@@ -1,0 +1,5352 @@
+[
+  {
+    "bioguide": "A000055",
+    "type": "rep",
+    "firstName": "Robert B.",
+    "middleInitial": "B.",
+    "lastName": "Aderholt",
+    "party": "R",
+    "state": "AL",
+    "district": 4
+  },
+  {
+    "bioguide": "A000148",
+    "type": "rep",
+    "firstName": "Jake",
+    "middleInitial": "",
+    "lastName": "Auchincloss ",
+    "party": "D",
+    "state": "MA",
+    "district": 4
+  },
+  {
+    "bioguide": "A000369",
+    "type": "rep",
+    "firstName": "Mark",
+    "middleInitial": "",
+    "lastName": "Amodei",
+    "party": "R",
+    "state": "NV",
+    "district": 2
+  },
+  {
+    "bioguide": "A000370",
+    "type": "rep",
+    "firstName": "Alma",
+    "middleInitial": "",
+    "lastName": "Adams",
+    "party": "D",
+    "state": "NC",
+    "district": 12
+  },
+  {
+    "bioguide": "A000371",
+    "type": "rep",
+    "firstName": "Pete",
+    "middleInitial": "",
+    "lastName": "Aguilar",
+    "party": "D",
+    "state": "CA",
+    "district": 33
+  },
+  {
+    "bioguide": "A000372",
+    "type": "rep",
+    "firstName": "Rick",
+    "middleInitial": "",
+    "lastName": "Allen",
+    "party": "R",
+    "state": "GA",
+    "district": 12
+  },
+  {
+    "bioguide": "A000375",
+    "type": "rep",
+    "firstName": "Jodey",
+    "middleInitial": "",
+    "lastName": "Arrington",
+    "party": "R",
+    "state": "TX",
+    "district": 19
+  },
+  {
+    "bioguide": "A000376",
+    "type": "rep",
+    "firstName": "Colin",
+    "middleInitial": "",
+    "lastName": "Allred",
+    "party": "D",
+    "state": "TX",
+    "district": 32
+  },
+  {
+    "bioguide": "A000377",
+    "type": "rep",
+    "firstName": "Kelly",
+    "middleInitial": "",
+    "lastName": "Armstrong",
+    "party": "R",
+    "state": "ND",
+    "district": 0
+  },
+  {
+    "bioguide": "A000379",
+    "type": "rep",
+    "firstName": "Mark",
+    "middleInitial": "",
+    "lastName": "Alford",
+    "party": "R",
+    "state": "MO",
+    "district": 4
+  },
+  {
+    "bioguide": "B000490",
+    "type": "rep",
+    "firstName": "Sanford D.",
+    "middleInitial": "D.",
+    "lastName": "Bishop Jr.",
+    "party": "D",
+    "state": "GA",
+    "district": 2
+  },
+  {
+    "bioguide": "B000574",
+    "type": "rep",
+    "firstName": "Earl",
+    "middleInitial": "",
+    "lastName": "Blumenauer",
+    "party": "D",
+    "state": "OR",
+    "district": 3
+  },
+  {
+    "bioguide": "B000668",
+    "type": "rep",
+    "firstName": "Cliff",
+    "middleInitial": "",
+    "lastName": "Bentz",
+    "party": "R",
+    "state": "OR",
+    "district": 2
+  },
+  {
+    "bioguide": "B000740",
+    "type": "rep",
+    "firstName": "Stephanie I.",
+    "middleInitial": "I.",
+    "lastName": "Bice",
+    "party": "R",
+    "state": "OK",
+    "district": 5
+  },
+  {
+    "bioguide": "B000825",
+    "type": "rep",
+    "firstName": "Lauren",
+    "middleInitial": "",
+    "lastName": "Boebert",
+    "party": "R",
+    "state": "CO",
+    "district": 3
+  },
+  {
+    "bioguide": "B001230",
+    "type": "sen",
+    "firstName": "Tammy ",
+    "middleInitial": "",
+    "lastName": "Baldwin",
+    "party": "D",
+    "state": "WI",
+    "district": null
+  },
+  {
+    "bioguide": "B001223",
+    "type": "rep",
+    "firstName": "Jamaal",
+    "middleInitial": "",
+    "lastName": "Bowman",
+    "party": "D",
+    "state": "NY",
+    "district": 16
+  },
+  {
+    "bioguide": "B001224",
+    "type": "rep",
+    "firstName": "Cori",
+    "middleInitial": "",
+    "lastName": "Bush",
+    "party": "D",
+    "state": "MO",
+    "district": 1
+  },
+  {
+    "bioguide": "B001261",
+    "type": "sen",
+    "firstName": "John ",
+    "middleInitial": "",
+    "lastName": "Barrasso",
+    "party": "R",
+    "state": "WY",
+    "district": null
+  },
+  {
+    "bioguide": "B001267",
+    "type": "sen",
+    "firstName": "Michael F. ",
+    "middleInitial": "F.",
+    "lastName": "Bennet",
+    "party": "D",
+    "state": "CO",
+    "district": null
+  },
+  {
+    "bioguide": "B001243",
+    "type": "sen",
+    "firstName": "Marsha ",
+    "middleInitial": "",
+    "lastName": "Blackburn",
+    "party": "R",
+    "state": "TN",
+    "district": null
+  },
+  {
+    "bioguide": "B001248",
+    "type": "rep",
+    "firstName": "Michael C.",
+    "middleInitial": "C.",
+    "lastName": "Burgess",
+    "party": "R",
+    "state": "TX",
+    "district": 26
+  },
+  {
+    "bioguide": "B001257",
+    "type": "rep",
+    "firstName": "Gus M.",
+    "middleInitial": "M.",
+    "lastName": "Bilirakis",
+    "party": "R",
+    "state": "FL",
+    "district": 12
+  },
+  {
+    "bioguide": "B001260",
+    "type": "rep",
+    "firstName": "Vern",
+    "middleInitial": "",
+    "lastName": "Buchanan",
+    "party": "R",
+    "state": "FL",
+    "district": 16
+  },
+  {
+    "bioguide": "B001277",
+    "type": "sen",
+    "firstName": "Richard ",
+    "middleInitial": "",
+    "lastName": "Blumenthal",
+    "party": "D",
+    "state": "CT",
+    "district": null
+  },
+  {
+    "bioguide": "B001288",
+    "type": "sen",
+    "firstName": "Cory ",
+    "middleInitial": "",
+    "lastName": "Booker",
+    "party": "D",
+    "state": "NJ",
+    "district": null
+  },
+  {
+    "bioguide": "B001275",
+    "type": "rep",
+    "firstName": "Larry",
+    "middleInitial": "",
+    "lastName": "Bucshon",
+    "party": "R",
+    "state": "IN",
+    "district": 8
+  },
+  {
+    "bioguide": "B001236",
+    "type": "sen",
+    "firstName": "John ",
+    "middleInitial": "",
+    "lastName": "Boozman",
+    "party": "R",
+    "state": "AR",
+    "district": null
+  },
+  {
+    "bioguide": "B001278",
+    "type": "rep",
+    "firstName": "Suzanne",
+    "middleInitial": "",
+    "lastName": "Bonamici",
+    "party": "D",
+    "state": "OR",
+    "district": 1
+  },
+  {
+    "bioguide": "B001281",
+    "type": "rep",
+    "firstName": "Joyce",
+    "middleInitial": "",
+    "lastName": "Beatty",
+    "party": "D",
+    "state": "OH",
+    "district": 3
+  },
+  {
+    "bioguide": "B001282",
+    "type": "rep",
+    "firstName": "Andy",
+    "middleInitial": "",
+    "lastName": "Barr",
+    "party": "R",
+    "state": "KY",
+    "district": 6
+  },
+  {
+    "bioguide": "B001285",
+    "type": "rep",
+    "firstName": "Julia",
+    "middleInitial": "",
+    "lastName": "Brownley",
+    "party": "D",
+    "state": "CA",
+    "district": 26
+  },
+  {
+    "bioguide": "B001287",
+    "type": "rep",
+    "firstName": "Ami",
+    "middleInitial": "",
+    "lastName": "Bera",
+    "party": "D",
+    "state": "CA",
+    "district": 6
+  },
+  {
+    "bioguide": "B001310",
+    "type": "sen",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Braun",
+    "party": "R",
+    "state": "IN",
+    "district": null
+  },
+  {
+    "bioguide": "B001291",
+    "type": "rep",
+    "firstName": "Brian",
+    "middleInitial": "",
+    "lastName": "Babin",
+    "party": "R",
+    "state": "TX",
+    "district": 36
+  },
+  {
+    "bioguide": "B001292",
+    "type": "rep",
+    "firstName": "Don",
+    "middleInitial": "",
+    "lastName": "Beyer",
+    "party": "D",
+    "state": "VA",
+    "district": 8
+  },
+  {
+    "bioguide": "B001295",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Bost",
+    "party": "R",
+    "state": "IL",
+    "district": 12
+  },
+  {
+    "bioguide": "B001296",
+    "type": "rep",
+    "firstName": "Brendan",
+    "middleInitial": "",
+    "lastName": "Boyle",
+    "party": "D",
+    "state": "PA",
+    "district": 2
+  },
+  {
+    "bioguide": "B001297",
+    "type": "rep",
+    "firstName": "Ken",
+    "middleInitial": "",
+    "lastName": "Buck",
+    "party": "R",
+    "state": "CO",
+    "district": 4
+  },
+  {
+    "bioguide": "B001298",
+    "type": "rep",
+    "firstName": "Don",
+    "middleInitial": "",
+    "lastName": "Bacon",
+    "party": "R",
+    "state": "NE",
+    "district": 2
+  },
+  {
+    "bioguide": "B001299",
+    "type": "rep",
+    "firstName": "Jim",
+    "middleInitial": "",
+    "lastName": "Banks",
+    "party": "R",
+    "state": "IN",
+    "district": 3
+  },
+  {
+    "bioguide": "B001300",
+    "type": "rep",
+    "firstName": "Nanette",
+    "middleInitial": "",
+    "lastName": "Barragán",
+    "party": "D",
+    "state": "CA",
+    "district": 44
+  },
+  {
+    "bioguide": "B001301",
+    "type": "rep",
+    "firstName": "Jack",
+    "middleInitial": "",
+    "lastName": "Bergman",
+    "party": "R",
+    "state": "MI",
+    "district": 1
+  },
+  {
+    "bioguide": "B001302",
+    "type": "rep",
+    "firstName": "Andy",
+    "middleInitial": "",
+    "lastName": "Biggs",
+    "party": "R",
+    "state": "AZ",
+    "district": 5
+  },
+  {
+    "bioguide": "B001303",
+    "type": "rep",
+    "firstName": "Lisa",
+    "middleInitial": "",
+    "lastName": "Blunt Rochester",
+    "party": "D",
+    "state": "DE",
+    "district": 0
+  },
+  {
+    "bioguide": "B001319",
+    "type": "sen",
+    "firstName": "Katie",
+    "middleInitial": "",
+    "lastName": "Britt",
+    "party": "R",
+    "state": "AL",
+    "district": null
+  },
+  {
+    "bioguide": "B001306",
+    "type": "rep",
+    "firstName": "Troy",
+    "middleInitial": "",
+    "lastName": "Balderson",
+    "party": "R",
+    "state": "OH",
+    "district": 12
+  },
+  {
+    "bioguide": "B001307",
+    "type": "rep",
+    "firstName": "Jim",
+    "middleInitial": "",
+    "lastName": "Baird",
+    "party": "R",
+    "state": "IN",
+    "district": 4
+  },
+  {
+    "bioguide": "B001309",
+    "type": "rep",
+    "firstName": "Tim",
+    "middleInitial": "",
+    "lastName": "Burchett",
+    "party": "R",
+    "state": "TN",
+    "district": 2
+  },
+  {
+    "bioguide": "B000944",
+    "type": "sen",
+    "firstName": "Sherrod ",
+    "middleInitial": "",
+    "lastName": "Brown",
+    "party": "D",
+    "state": "OH",
+    "district": null
+  },
+  {
+    "bioguide": "B001311",
+    "type": "rep",
+    "firstName": "Dan",
+    "middleInitial": "",
+    "lastName": "Bishop",
+    "party": "R",
+    "state": "NC",
+    "district": 8
+  },
+  {
+    "bioguide": "B001313",
+    "type": "rep",
+    "firstName": "Shontel",
+    "middleInitial": "",
+    "lastName": "Brown",
+    "party": "D",
+    "state": "OH",
+    "district": 11
+  },
+  {
+    "bioguide": "B001314",
+    "type": "rep",
+    "firstName": "Aaron",
+    "middleInitial": "",
+    "lastName": "Bean",
+    "party": "R",
+    "state": "FL",
+    "district": 4
+  },
+  {
+    "bioguide": "B001315",
+    "type": "rep",
+    "firstName": "Nikki ",
+    "middleInitial": "",
+    "lastName": "Budzinski",
+    "party": "D",
+    "state": "IL",
+    "district": 13
+  },
+  {
+    "bioguide": "B001316",
+    "type": "rep",
+    "firstName": "Eric ",
+    "middleInitial": "",
+    "lastName": "Burlison",
+    "party": "R",
+    "state": "MO",
+    "district": 7
+  },
+  {
+    "bioguide": "B001317",
+    "type": "rep",
+    "firstName": "Josh",
+    "middleInitial": "",
+    "lastName": "Brecheen",
+    "party": "R",
+    "state": "OK",
+    "district": 2
+  },
+  {
+    "bioguide": "B001318",
+    "type": "rep",
+    "firstName": "Becca",
+    "middleInitial": "",
+    "lastName": "Balint",
+    "party": "D",
+    "state": "VT",
+    "district": 0
+  },
+  {
+    "bioguide": "B001305",
+    "type": "sen",
+    "firstName": "Ted ",
+    "middleInitial": "",
+    "lastName": "Budd",
+    "party": "R",
+    "state": "NC",
+    "district": null
+  },
+  {
+    "bioguide": "C000059",
+    "type": "rep",
+    "firstName": "Ken",
+    "middleInitial": "",
+    "lastName": "Calvert",
+    "party": "R",
+    "state": "CA",
+    "district": 41
+  },
+  {
+    "bioguide": "C000127",
+    "type": "sen",
+    "firstName": "Maria ",
+    "middleInitial": "",
+    "lastName": "Cantwell",
+    "party": "D",
+    "state": "WA",
+    "district": null
+  },
+  {
+    "bioguide": "C001047",
+    "type": "sen",
+    "firstName": "Shelley Moore ",
+    "middleInitial": "",
+    "lastName": "Capito",
+    "party": "R",
+    "state": "WV",
+    "district": null
+  },
+  {
+    "bioguide": "C000141",
+    "type": "sen",
+    "firstName": "Benjamin L. ",
+    "middleInitial": "L.",
+    "lastName": "Cardin",
+    "party": "D",
+    "state": "MD",
+    "district": null
+  },
+  {
+    "bioguide": "C000537",
+    "type": "rep",
+    "firstName": "James E.",
+    "middleInitial": "E.",
+    "lastName": "Clyburn",
+    "party": "D",
+    "state": "SC",
+    "district": 6
+  },
+  {
+    "bioguide": "C000174",
+    "type": "sen",
+    "firstName": "Thomas R. ",
+    "middleInitial": "R.",
+    "lastName": "Carper",
+    "party": "D",
+    "state": "DE",
+    "district": null
+  },
+  {
+    "bioguide": "C001070",
+    "type": "sen",
+    "firstName": "Robert P. ",
+    "middleInitial": "P.",
+    "lastName": "Casey Jr.",
+    "party": "D",
+    "state": "PA",
+    "district": null
+  },
+  {
+    "bioguide": "C001039",
+    "type": "rep",
+    "firstName": "Kat",
+    "middleInitial": "",
+    "lastName": "Cammack",
+    "party": "R",
+    "state": "FL",
+    "district": 3
+  },
+  {
+    "bioguide": "C001075",
+    "type": "sen",
+    "firstName": "Bill ",
+    "middleInitial": "",
+    "lastName": "Cassidy",
+    "party": "R",
+    "state": "LA",
+    "district": null
+  },
+  {
+    "bioguide": "C001051",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Carter",
+    "party": "R",
+    "state": "TX",
+    "district": 31
+  },
+  {
+    "bioguide": "C001053",
+    "type": "rep",
+    "firstName": "Tom",
+    "middleInitial": "",
+    "lastName": "Cole",
+    "party": "R",
+    "state": "OK",
+    "district": 4
+  },
+  {
+    "bioguide": "C001054",
+    "type": "rep",
+    "firstName": "Jerry L.",
+    "middleInitial": "L.",
+    "lastName": "Carl",
+    "party": "R",
+    "state": "AL",
+    "district": 1
+  },
+  {
+    "bioguide": "C001055",
+    "type": "rep",
+    "firstName": "Ed",
+    "middleInitial": "",
+    "lastName": "Case",
+    "party": "D",
+    "state": "HI",
+    "district": 1
+  },
+  {
+    "bioguide": "C001035",
+    "type": "sen",
+    "firstName": "Susan ",
+    "middleInitial": "",
+    "lastName": "Collins",
+    "party": "R",
+    "state": "ME",
+    "district": null
+  },
+  {
+    "bioguide": "C001059",
+    "type": "rep",
+    "firstName": "Jim",
+    "middleInitial": "",
+    "lastName": "Costa",
+    "party": "D",
+    "state": "CA",
+    "district": 21
+  },
+  {
+    "bioguide": "C001061",
+    "type": "rep",
+    "firstName": "Emanuel",
+    "middleInitial": "",
+    "lastName": "Cleaver II",
+    "party": "D",
+    "state": "MO",
+    "district": 5
+  },
+  {
+    "bioguide": "C001063",
+    "type": "rep",
+    "firstName": "Henry",
+    "middleInitial": "",
+    "lastName": "Cuellar",
+    "party": "D",
+    "state": "TX",
+    "district": 28
+  },
+  {
+    "bioguide": "C001066",
+    "type": "rep",
+    "firstName": "Kathy",
+    "middleInitial": "",
+    "lastName": "Castor",
+    "party": "D",
+    "state": "FL",
+    "district": 14
+  },
+  {
+    "bioguide": "C001067",
+    "type": "rep",
+    "firstName": "Yvette D.",
+    "middleInitial": "D.",
+    "lastName": "Clarke",
+    "party": "D",
+    "state": "NY",
+    "district": 9
+  },
+  {
+    "bioguide": "C001068",
+    "type": "rep",
+    "firstName": "Steve",
+    "middleInitial": "",
+    "lastName": "Cohen",
+    "party": "D",
+    "state": "TN",
+    "district": 9
+  },
+  {
+    "bioguide": "C001069",
+    "type": "rep",
+    "firstName": "Joe",
+    "middleInitial": "",
+    "lastName": "Courtney",
+    "party": "D",
+    "state": "CT",
+    "district": 2
+  },
+  {
+    "bioguide": "C001088",
+    "type": "sen",
+    "firstName": "Christopher A. ",
+    "middleInitial": "A.",
+    "lastName": "Coons",
+    "party": "D",
+    "state": "DE",
+    "district": null
+  },
+  {
+    "bioguide": "C001072",
+    "type": "rep",
+    "firstName": "Andre",
+    "middleInitial": "",
+    "lastName": "Carson",
+    "party": "D",
+    "state": "IN",
+    "district": 7
+  },
+  {
+    "bioguide": "C001056",
+    "type": "sen",
+    "firstName": "John ",
+    "middleInitial": "",
+    "lastName": "Cornyn",
+    "party": "R",
+    "state": "TX",
+    "district": null
+  },
+  {
+    "bioguide": "C001078",
+    "type": "rep",
+    "firstName": "Gerald E.",
+    "middleInitial": "E.",
+    "lastName": "Connolly",
+    "party": "D",
+    "state": "VA",
+    "district": 11
+  },
+  {
+    "bioguide": "C001080",
+    "type": "rep",
+    "firstName": "Judy",
+    "middleInitial": "",
+    "lastName": "Chu",
+    "party": "D",
+    "state": "CA",
+    "district": 28
+  },
+  {
+    "bioguide": "C001084",
+    "type": "rep",
+    "firstName": "David N.",
+    "middleInitial": "N.",
+    "lastName": "Cicilline",
+    "party": "D",
+    "state": "RI",
+    "district": 1
+  },
+  {
+    "bioguide": "C001087",
+    "type": "rep",
+    "firstName": "Eric A. \"Rick\"",
+    "middleInitial": "",
+    "lastName": "Crawford",
+    "party": "R",
+    "state": "AR",
+    "district": 1
+  },
+  {
+    "bioguide": "C001113",
+    "type": "sen",
+    "firstName": "Catherine ",
+    "middleInitial": "",
+    "lastName": "Cortez Masto",
+    "party": "D",
+    "state": "NV",
+    "district": null
+  },
+  {
+    "bioguide": "C001090",
+    "type": "rep",
+    "firstName": "Matthew",
+    "middleInitial": "",
+    "lastName": "Cartwright",
+    "party": "D",
+    "state": "PA",
+    "district": 8
+  },
+  {
+    "bioguide": "C001091",
+    "type": "rep",
+    "firstName": "Joaquin",
+    "middleInitial": "",
+    "lastName": "Castro",
+    "party": "D",
+    "state": "TX",
+    "district": 20
+  },
+  {
+    "bioguide": "C001095",
+    "type": "sen",
+    "firstName": "Tom ",
+    "middleInitial": "",
+    "lastName": "Cotton",
+    "party": "R",
+    "state": "AR",
+    "district": null
+  },
+  {
+    "bioguide": "C001096",
+    "type": "sen",
+    "firstName": "Kevin ",
+    "middleInitial": "",
+    "lastName": "Cramer",
+    "party": "R",
+    "state": "ND",
+    "district": null
+  },
+  {
+    "bioguide": "C001097",
+    "type": "rep",
+    "firstName": "Tony",
+    "middleInitial": "",
+    "lastName": "Cárdenas",
+    "party": "D",
+    "state": "CA",
+    "district": 29
+  },
+  {
+    "bioguide": "C000880",
+    "type": "sen",
+    "firstName": "Mike ",
+    "middleInitial": "",
+    "lastName": "Crapo",
+    "party": "R",
+    "state": "ID",
+    "district": null
+  },
+  {
+    "bioguide": "C001101",
+    "type": "rep",
+    "firstName": "Katherine M.",
+    "middleInitial": "M.",
+    "lastName": "Clark",
+    "party": "D",
+    "state": "MA",
+    "district": 5
+  },
+  {
+    "bioguide": "C001103",
+    "type": "rep",
+    "firstName": "Earl L. \"Buddy\"",
+    "middleInitial": "",
+    "lastName": "Carter",
+    "party": "R",
+    "state": "GA",
+    "district": 1
+  },
+  {
+    "bioguide": "C001108",
+    "type": "rep",
+    "firstName": "James",
+    "middleInitial": "",
+    "lastName": "Comer",
+    "party": "R",
+    "state": "KY",
+    "district": 1
+  },
+  {
+    "bioguide": "C001110",
+    "type": "rep",
+    "firstName": "J. Luis",
+    "middleInitial": "",
+    "lastName": "Correa",
+    "party": "D",
+    "state": "CA",
+    "district": 46
+  },
+  {
+    "bioguide": "C001112",
+    "type": "rep",
+    "firstName": "Salud",
+    "middleInitial": "",
+    "lastName": "Carbajal",
+    "party": "D",
+    "state": "CA",
+    "district": 24
+  },
+  {
+    "bioguide": "C001098",
+    "type": "sen",
+    "firstName": "Ted ",
+    "middleInitial": "",
+    "lastName": "Cruz",
+    "party": "R",
+    "state": "TX",
+    "district": null
+  },
+  {
+    "bioguide": "C001114",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Curtis",
+    "party": "R",
+    "state": "UT",
+    "district": 3
+  },
+  {
+    "bioguide": "C001115",
+    "type": "rep",
+    "firstName": "Michael",
+    "middleInitial": "",
+    "lastName": "Cloud",
+    "party": "R",
+    "state": "TX",
+    "district": 27
+  },
+  {
+    "bioguide": "C001116",
+    "type": "rep",
+    "firstName": "Andrew S.",
+    "middleInitial": "S.",
+    "lastName": "Clyde",
+    "party": "R",
+    "state": "GA",
+    "district": 9
+  },
+  {
+    "bioguide": "C001117",
+    "type": "rep",
+    "firstName": "Sean",
+    "middleInitial": "",
+    "lastName": "Casten",
+    "party": "D",
+    "state": "IL",
+    "district": 6
+  },
+  {
+    "bioguide": "C001118",
+    "type": "rep",
+    "firstName": "Ben",
+    "middleInitial": "",
+    "lastName": "Cline",
+    "party": "R",
+    "state": "VA",
+    "district": 6
+  },
+  {
+    "bioguide": "C001119",
+    "type": "rep",
+    "firstName": "Angie",
+    "middleInitial": "",
+    "lastName": "Craig",
+    "party": "D",
+    "state": "MN",
+    "district": 2
+  },
+  {
+    "bioguide": "C001120",
+    "type": "rep",
+    "firstName": "Dan",
+    "middleInitial": "",
+    "lastName": "Crenshaw",
+    "party": "R",
+    "state": "TX",
+    "district": 2
+  },
+  {
+    "bioguide": "C001121",
+    "type": "rep",
+    "firstName": "Jason",
+    "middleInitial": "",
+    "lastName": "Crow",
+    "party": "D",
+    "state": "CO",
+    "district": 6
+  },
+  {
+    "bioguide": "C001125",
+    "type": "rep",
+    "firstName": "Troy",
+    "middleInitial": "",
+    "lastName": "Carter",
+    "party": "D",
+    "state": "LA",
+    "district": 2
+  },
+  {
+    "bioguide": "C001126",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Carey",
+    "party": "R",
+    "state": "OH",
+    "district": 15
+  },
+  {
+    "bioguide": "C001127",
+    "type": "rep",
+    "firstName": "Sheila",
+    "middleInitial": "",
+    "lastName": "Cherfilus-McCormick",
+    "party": "D",
+    "state": "FL",
+    "district": 20
+  },
+  {
+    "bioguide": "C001129",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Collins",
+    "party": "R",
+    "state": "GA",
+    "district": 10
+  },
+  {
+    "bioguide": "C001130",
+    "type": "rep",
+    "firstName": "Jasmine",
+    "middleInitial": "",
+    "lastName": "Crockett",
+    "party": "D",
+    "state": "TX",
+    "district": 30
+  },
+  {
+    "bioguide": "C001131",
+    "type": "rep",
+    "firstName": "Greg",
+    "middleInitial": "",
+    "lastName": "Casar",
+    "party": "D",
+    "state": "TX",
+    "district": 35
+  },
+  {
+    "bioguide": "C001132",
+    "type": "rep",
+    "firstName": "Eli",
+    "middleInitial": "",
+    "lastName": "Crane",
+    "party": "R",
+    "state": "AZ",
+    "district": 2
+  },
+  {
+    "bioguide": "C001133",
+    "type": "rep",
+    "firstName": "Juan",
+    "middleInitial": "",
+    "lastName": "Ciscomani",
+    "party": "R",
+    "state": "AZ",
+    "district": 6
+  },
+  {
+    "bioguide": "C001134",
+    "type": "rep",
+    "firstName": "Yadira",
+    "middleInitial": "",
+    "lastName": "Caraveo",
+    "party": "D",
+    "state": "CO",
+    "district": 8
+  },
+  {
+    "bioguide": "C001135",
+    "type": "rep",
+    "firstName": "Lori",
+    "middleInitial": "",
+    "lastName": "Chavez-DeRemer",
+    "party": "R",
+    "state": "OR",
+    "district": 5
+  },
+  {
+    "bioguide": "D000032",
+    "type": "rep",
+    "firstName": "Byron",
+    "middleInitial": "",
+    "lastName": "Donalds",
+    "party": "R",
+    "state": "FL",
+    "district": 19
+  },
+  {
+    "bioguide": "D000096",
+    "type": "rep",
+    "firstName": "Danny K.",
+    "middleInitial": "K.",
+    "lastName": "Davis",
+    "party": "D",
+    "state": "IL",
+    "district": 7
+  },
+  {
+    "bioguide": "D000197",
+    "type": "rep",
+    "firstName": "Diana",
+    "middleInitial": "",
+    "lastName": "DeGette",
+    "party": "D",
+    "state": "CO",
+    "district": 1
+  },
+  {
+    "bioguide": "D000216",
+    "type": "rep",
+    "firstName": "Rosa L.",
+    "middleInitial": "L.",
+    "lastName": "DeLauro",
+    "party": "D",
+    "state": "CT",
+    "district": 3
+  },
+  {
+    "bioguide": "D000230",
+    "type": "rep",
+    "firstName": "Don",
+    "middleInitial": "",
+    "lastName": "Davis",
+    "party": "D",
+    "state": "NC",
+    "district": 1
+  },
+  {
+    "bioguide": "D000399",
+    "type": "rep",
+    "firstName": "Lloyd",
+    "middleInitial": "",
+    "lastName": "Doggett",
+    "party": "D",
+    "state": "TX",
+    "district": 37
+  },
+  {
+    "bioguide": "D000530",
+    "type": "rep",
+    "firstName": "Chris",
+    "middleInitial": "",
+    "lastName": "Deluzio",
+    "party": "D",
+    "state": "PA",
+    "district": 17
+  },
+  {
+    "bioguide": "D000618",
+    "type": "sen",
+    "firstName": "Steve ",
+    "middleInitial": "",
+    "lastName": "Daines",
+    "party": "R",
+    "state": "MT",
+    "district": null
+  },
+  {
+    "bioguide": "D000594",
+    "type": "rep",
+    "firstName": "Monica",
+    "middleInitial": "",
+    "lastName": "De La Cruz",
+    "party": "R",
+    "state": "TX",
+    "district": 15
+  },
+  {
+    "bioguide": "D000600",
+    "type": "rep",
+    "firstName": "Mario",
+    "middleInitial": "",
+    "lastName": "Diaz-Balart",
+    "party": "R",
+    "state": "FL",
+    "district": 26
+  },
+  {
+    "bioguide": "D000615",
+    "type": "rep",
+    "firstName": "Jeff",
+    "middleInitial": "",
+    "lastName": "Duncan",
+    "party": "R",
+    "state": "SC",
+    "district": 3
+  },
+  {
+    "bioguide": "D000616",
+    "type": "rep",
+    "firstName": "Scott",
+    "middleInitial": "",
+    "lastName": "DesJarlais",
+    "party": "R",
+    "state": "TN",
+    "district": 4
+  },
+  {
+    "bioguide": "D000617",
+    "type": "rep",
+    "firstName": "Suzan",
+    "middleInitial": "",
+    "lastName": "DelBene",
+    "party": "D",
+    "state": "WA",
+    "district": 1
+  },
+  {
+    "bioguide": "D000622",
+    "type": "sen",
+    "firstName": "Tammy ",
+    "middleInitial": "",
+    "lastName": "Duckworth",
+    "party": "D",
+    "state": "IL",
+    "district": null
+  },
+  {
+    "bioguide": "D000563",
+    "type": "sen",
+    "firstName": "Richard J. ",
+    "middleInitial": "J.",
+    "lastName": "Durbin",
+    "party": "D",
+    "state": "IL",
+    "district": null
+  },
+  {
+    "bioguide": "D000623",
+    "type": "rep",
+    "firstName": "Mark",
+    "middleInitial": "",
+    "lastName": "DeSaulnier",
+    "party": "D",
+    "state": "CA",
+    "district": 10
+  },
+  {
+    "bioguide": "D000624",
+    "type": "rep",
+    "firstName": "Debbie",
+    "middleInitial": "",
+    "lastName": "Dingell",
+    "party": "D",
+    "state": "MI",
+    "district": 6
+  },
+  {
+    "bioguide": "D000626",
+    "type": "rep",
+    "firstName": "Warren",
+    "middleInitial": "",
+    "lastName": "Davidson",
+    "party": "R",
+    "state": "OH",
+    "district": 8
+  },
+  {
+    "bioguide": "D000628",
+    "type": "rep",
+    "firstName": "Neal",
+    "middleInitial": "",
+    "lastName": "Dunn",
+    "party": "R",
+    "state": "FL",
+    "district": 2
+  },
+  {
+    "bioguide": "D000629",
+    "type": "rep",
+    "firstName": "Sharice",
+    "middleInitial": "",
+    "lastName": "Davids",
+    "party": "D",
+    "state": "KS",
+    "district": 3
+  },
+  {
+    "bioguide": "D000631",
+    "type": "rep",
+    "firstName": "Madeleine",
+    "middleInitial": "",
+    "lastName": "Dean",
+    "party": "D",
+    "state": "PA",
+    "district": 4
+  },
+  {
+    "bioguide": "D000632",
+    "type": "rep",
+    "firstName": "Anthony P.",
+    "middleInitial": "P.",
+    "lastName": "D'Esposito",
+    "party": "R",
+    "state": "NY",
+    "district": 4
+  },
+  {
+    "bioguide": "D000633",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Duarte",
+    "party": "R",
+    "state": "CA",
+    "district": 13
+  },
+  {
+    "bioguide": "E000071",
+    "type": "rep",
+    "firstName": "Jake",
+    "middleInitial": "",
+    "lastName": "Ellzey",
+    "party": "R",
+    "state": "TX",
+    "district": 6
+  },
+  {
+    "bioguide": "E000215",
+    "type": "rep",
+    "firstName": "Anna G.",
+    "middleInitial": "G.",
+    "lastName": "Eshoo",
+    "party": "D",
+    "state": "CA",
+    "district": 16
+  },
+  {
+    "bioguide": "E000235",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Ezell",
+    "party": "R",
+    "state": "MS",
+    "district": 4
+  },
+  {
+    "bioguide": "E000246",
+    "type": "rep",
+    "firstName": "Chuck",
+    "middleInitial": "",
+    "lastName": "Edwards",
+    "party": "R",
+    "state": "NC",
+    "district": 11
+  },
+  {
+    "bioguide": "E000294",
+    "type": "rep",
+    "firstName": "Tom",
+    "middleInitial": "",
+    "lastName": "Emmer",
+    "party": "R",
+    "state": "MN",
+    "district": 6
+  },
+  {
+    "bioguide": "E000295",
+    "type": "sen",
+    "firstName": "Joni ",
+    "middleInitial": "",
+    "lastName": "Ernst",
+    "party": "R",
+    "state": "IA",
+    "district": null
+  },
+  {
+    "bioguide": "E000296",
+    "type": "rep",
+    "firstName": "Dwight",
+    "middleInitial": "",
+    "lastName": "Evans",
+    "party": "D",
+    "state": "PA",
+    "district": 3
+  },
+  {
+    "bioguide": "E000297",
+    "type": "rep",
+    "firstName": "Adriano",
+    "middleInitial": "",
+    "lastName": "Espaillat",
+    "party": "D",
+    "state": "NY",
+    "district": 13
+  },
+  {
+    "bioguide": "E000298",
+    "type": "rep",
+    "firstName": "Ron",
+    "middleInitial": "",
+    "lastName": "Estes",
+    "party": "R",
+    "state": "KS",
+    "district": 4
+  },
+  {
+    "bioguide": "E000299",
+    "type": "rep",
+    "firstName": "Veronica",
+    "middleInitial": "",
+    "lastName": "Escobar",
+    "party": "D",
+    "state": "TX",
+    "district": 16
+  },
+  {
+    "bioguide": "F000062",
+    "type": "sen",
+    "firstName": "Dianne ",
+    "middleInitial": "",
+    "lastName": "Feinstein",
+    "party": "D",
+    "state": "CA",
+    "district": null
+  },
+  {
+    "bioguide": "F000246",
+    "type": "rep",
+    "firstName": "Pat",
+    "middleInitial": "",
+    "lastName": "Fallon",
+    "party": "R",
+    "state": "TX",
+    "district": 4
+  },
+  {
+    "bioguide": "F000446",
+    "type": "rep",
+    "firstName": "Randy",
+    "middleInitial": "",
+    "lastName": "Feenstra",
+    "party": "R",
+    "state": "IA",
+    "district": 4
+  },
+  {
+    "bioguide": "F000450",
+    "type": "rep",
+    "firstName": "Virginia",
+    "middleInitial": "",
+    "lastName": "Foxx",
+    "party": "R",
+    "state": "NC",
+    "district": 5
+  },
+  {
+    "bioguide": "F000454",
+    "type": "rep",
+    "firstName": "Bill",
+    "middleInitial": "",
+    "lastName": "Foster",
+    "party": "D",
+    "state": "IL",
+    "district": 11
+  },
+  {
+    "bioguide": "F000459",
+    "type": "rep",
+    "firstName": "Charles J. \"Chuck\"",
+    "middleInitial": "",
+    "lastName": "Fleischmann",
+    "party": "R",
+    "state": "TN",
+    "district": 3
+  },
+  {
+    "bioguide": "F000462",
+    "type": "rep",
+    "firstName": "Lois",
+    "middleInitial": "",
+    "lastName": "Frankel",
+    "party": "D",
+    "state": "FL",
+    "district": 22
+  },
+  {
+    "bioguide": "F000479",
+    "type": "sen",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Fetterman",
+    "party": "D",
+    "state": "PA",
+    "district": null
+  },
+  {
+    "bioguide": "F000465",
+    "type": "rep",
+    "firstName": "Drew",
+    "middleInitial": "",
+    "lastName": "Ferguson",
+    "party": "R",
+    "state": "GA",
+    "district": 3
+  },
+  {
+    "bioguide": "F000466",
+    "type": "rep",
+    "firstName": "Brian",
+    "middleInitial": "",
+    "lastName": "Fitzpatrick",
+    "party": "R",
+    "state": "PA",
+    "district": 1
+  },
+  {
+    "bioguide": "F000468",
+    "type": "rep",
+    "firstName": "Lizzie",
+    "middleInitial": "",
+    "lastName": "Fletcher",
+    "party": "D",
+    "state": "TX",
+    "district": 7
+  },
+  {
+    "bioguide": "F000469",
+    "type": "rep",
+    "firstName": "Russ",
+    "middleInitial": "",
+    "lastName": "Fulcher",
+    "party": "R",
+    "state": "ID",
+    "district": 1
+  },
+  {
+    "bioguide": "F000470",
+    "type": "rep",
+    "firstName": "Michelle",
+    "middleInitial": "",
+    "lastName": "Fischbach",
+    "party": "R",
+    "state": "MN",
+    "district": 7
+  },
+  {
+    "bioguide": "F000471",
+    "type": "rep",
+    "firstName": "Scott",
+    "middleInitial": "",
+    "lastName": "Fitzgerald",
+    "party": "R",
+    "state": "WI",
+    "district": 5
+  },
+  {
+    "bioguide": "F000472",
+    "type": "rep",
+    "firstName": "C. Scott",
+    "middleInitial": "",
+    "lastName": "Franklin",
+    "party": "R",
+    "state": "FL",
+    "district": 18
+  },
+  {
+    "bioguide": "F000474",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Flood",
+    "party": "R",
+    "state": "NE",
+    "district": 1
+  },
+  {
+    "bioguide": "F000475",
+    "type": "rep",
+    "firstName": "Brad",
+    "middleInitial": "",
+    "lastName": "Finstad",
+    "party": "R",
+    "state": "MN",
+    "district": 1
+  },
+  {
+    "bioguide": "F000476",
+    "type": "rep",
+    "firstName": "Maxwell",
+    "middleInitial": "",
+    "lastName": "Frost",
+    "party": "D",
+    "state": "FL",
+    "district": 10
+  },
+  {
+    "bioguide": "F000477",
+    "type": "rep",
+    "firstName": "Valerie",
+    "middleInitial": "",
+    "lastName": "Foushee",
+    "party": "D",
+    "state": "NC",
+    "district": 4
+  },
+  {
+    "bioguide": "F000478",
+    "type": "rep",
+    "firstName": "Russell",
+    "middleInitial": "",
+    "lastName": "Fry",
+    "party": "R",
+    "state": "SC",
+    "district": 7
+  },
+  {
+    "bioguide": "F000463",
+    "type": "sen",
+    "firstName": "Deb ",
+    "middleInitial": "",
+    "lastName": "Fischer",
+    "party": "R",
+    "state": "NE",
+    "district": null
+  },
+  {
+    "bioguide": "G000061",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Garcia",
+    "party": "R",
+    "state": "CA",
+    "district": 27
+  },
+  {
+    "bioguide": "G000555",
+    "type": "sen",
+    "firstName": "Kirsten ",
+    "middleInitial": "",
+    "lastName": "Gillibrand",
+    "party": "D",
+    "state": "NY",
+    "district": null
+  },
+  {
+    "bioguide": "G000377",
+    "type": "rep",
+    "firstName": "Kay",
+    "middleInitial": "",
+    "lastName": "Granger",
+    "party": "R",
+    "state": "TX",
+    "district": 12
+  },
+  {
+    "bioguide": "G000359",
+    "type": "sen",
+    "firstName": "Lindsey O. ",
+    "middleInitial": "O.",
+    "lastName": "Graham",
+    "party": "R",
+    "state": "SC",
+    "district": null
+  },
+  {
+    "bioguide": "G000546",
+    "type": "rep",
+    "firstName": "Sam",
+    "middleInitial": "",
+    "lastName": "Graves",
+    "party": "R",
+    "state": "MO",
+    "district": 6
+  },
+  {
+    "bioguide": "G000551",
+    "type": "rep",
+    "firstName": "Ra�l",
+    "middleInitial": "",
+    "lastName": "Grijalva",
+    "party": "D",
+    "state": "AZ",
+    "district": 7
+  },
+  {
+    "bioguide": "G000553",
+    "type": "rep",
+    "firstName": "Al",
+    "middleInitial": "",
+    "lastName": "Green",
+    "party": "D",
+    "state": "TX",
+    "district": 9
+  },
+  {
+    "bioguide": "G000386",
+    "type": "sen",
+    "firstName": "Charles E. ",
+    "middleInitial": "E.",
+    "lastName": "Grassley",
+    "party": "R",
+    "state": "IA",
+    "district": null
+  },
+  {
+    "bioguide": "G000558",
+    "type": "rep",
+    "firstName": "Brett",
+    "middleInitial": "",
+    "lastName": "Guthrie",
+    "party": "R",
+    "state": "KY",
+    "district": 2
+  },
+  {
+    "bioguide": "G000559",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Garamendi",
+    "party": "D",
+    "state": "CA",
+    "district": 8
+  },
+  {
+    "bioguide": "G000565",
+    "type": "rep",
+    "firstName": "Paul A.",
+    "middleInitial": "",
+    "lastName": "Gosar",
+    "party": "R",
+    "state": "AZ",
+    "district": 9
+  },
+  {
+    "bioguide": "G000568",
+    "type": "rep",
+    "firstName": "H. Morgan",
+    "middleInitial": "",
+    "lastName": "Griffith",
+    "party": "R",
+    "state": "VA",
+    "district": 9
+  },
+  {
+    "bioguide": "G000574",
+    "type": "rep",
+    "firstName": "Ruben",
+    "middleInitial": "",
+    "lastName": "Gallego",
+    "party": "D",
+    "state": "AZ",
+    "district": 3
+  },
+  {
+    "bioguide": "G000576",
+    "type": "rep",
+    "firstName": "Glenn",
+    "middleInitial": "",
+    "lastName": "Grothman",
+    "party": "R",
+    "state": "WI",
+    "district": 6
+  },
+  {
+    "bioguide": "G000577",
+    "type": "rep",
+    "firstName": "Garret",
+    "middleInitial": "",
+    "lastName": "Graves",
+    "party": "R",
+    "state": "LA",
+    "district": 6
+  },
+  {
+    "bioguide": "G000578",
+    "type": "rep",
+    "firstName": "Matt",
+    "middleInitial": "",
+    "lastName": "Gaetz",
+    "party": "R",
+    "state": "FL",
+    "district": 1
+  },
+  {
+    "bioguide": "G000579",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Gallagher",
+    "party": "R",
+    "state": "WI",
+    "district": 8
+  },
+  {
+    "bioguide": "G000581",
+    "type": "rep",
+    "firstName": "Vicente",
+    "middleInitial": "",
+    "lastName": "Gonzalez",
+    "party": "D",
+    "state": "TX",
+    "district": 34
+  },
+  {
+    "bioguide": "G000583",
+    "type": "rep",
+    "firstName": "Josh",
+    "middleInitial": "",
+    "lastName": "Gottheimer",
+    "party": "D",
+    "state": "NJ",
+    "district": 5
+  },
+  {
+    "bioguide": "G000585",
+    "type": "rep",
+    "firstName": "Jimmy",
+    "middleInitial": "",
+    "lastName": "Gomez",
+    "party": "D",
+    "state": "CA",
+    "district": 34
+  },
+  {
+    "bioguide": "G000586",
+    "type": "rep",
+    "firstName": "Jesús \"Chuy\"",
+    "middleInitial": "",
+    "lastName": "Garcia",
+    "party": "D",
+    "state": "IL",
+    "district": 4
+  },
+  {
+    "bioguide": "G000587",
+    "type": "rep",
+    "firstName": "Sylvia",
+    "middleInitial": "",
+    "lastName": "Garcia",
+    "party": "D",
+    "state": "TX",
+    "district": 29
+  },
+  {
+    "bioguide": "G000589",
+    "type": "rep",
+    "firstName": "Lance",
+    "middleInitial": "",
+    "lastName": "Gooden",
+    "party": "R",
+    "state": "TX",
+    "district": 5
+  },
+  {
+    "bioguide": "G000590",
+    "type": "rep",
+    "firstName": "Mark",
+    "middleInitial": "",
+    "lastName": "Green",
+    "party": "R",
+    "state": "TN",
+    "district": 7
+  },
+  {
+    "bioguide": "G000591",
+    "type": "rep",
+    "firstName": "Michael",
+    "middleInitial": "",
+    "lastName": "Guest",
+    "party": "R",
+    "state": "MS",
+    "district": 3
+  },
+  {
+    "bioguide": "G000592",
+    "type": "rep",
+    "firstName": "Jared",
+    "middleInitial": "",
+    "lastName": "Golden",
+    "party": "D",
+    "state": "ME",
+    "district": 2
+  },
+  {
+    "bioguide": "G000593",
+    "type": "rep",
+    "firstName": "Carlos A. ",
+    "middleInitial": "A.",
+    "lastName": "Giménez",
+    "party": "R",
+    "state": "FL",
+    "district": 28
+  },
+  {
+    "bioguide": "G000594",
+    "type": "rep",
+    "firstName": "Tony",
+    "middleInitial": "",
+    "lastName": "Gonzales",
+    "party": "R",
+    "state": "TX",
+    "district": 23
+  },
+  {
+    "bioguide": "G000595",
+    "type": "rep",
+    "firstName": "Bob",
+    "middleInitial": "",
+    "lastName": "Good",
+    "party": "R",
+    "state": "VA",
+    "district": 5
+  },
+  {
+    "bioguide": "G000596",
+    "type": "rep",
+    "firstName": "Marjorie Taylor",
+    "middleInitial": "",
+    "lastName": "Greene",
+    "party": "R",
+    "state": "GA",
+    "district": 14
+  },
+  {
+    "bioguide": "G000597",
+    "type": "rep",
+    "firstName": "Andrew R.",
+    "middleInitial": "",
+    "lastName": "Garbarino",
+    "party": "R",
+    "state": "NY",
+    "district": 2
+  },
+  {
+    "bioguide": "G000598",
+    "type": "rep",
+    "firstName": "Robert",
+    "middleInitial": "",
+    "lastName": "Garcia",
+    "party": "D",
+    "state": "CA",
+    "district": 42
+  },
+  {
+    "bioguide": "G000599",
+    "type": "rep",
+    "firstName": "Daniel",
+    "middleInitial": "",
+    "lastName": "Goldman",
+    "party": "D",
+    "state": "NY",
+    "district": 10
+  },
+  {
+    "bioguide": "G000600",
+    "type": "rep",
+    "firstName": "Marie",
+    "middleInitial": "",
+    "lastName": "Gluesenkamp Perez",
+    "party": "D",
+    "state": "WA",
+    "district": 3
+  },
+  {
+    "bioguide": "H000601",
+    "type": "sen",
+    "firstName": "Bill",
+    "middleInitial": "",
+    "lastName": "Hagerty",
+    "party": "R",
+    "state": "TN",
+    "district": null
+  },
+  {
+    "bioguide": "H001076",
+    "type": "sen",
+    "firstName": "Margaret Wood ",
+    "middleInitial": "",
+    "lastName": "Hassan",
+    "party": "D",
+    "state": "NH",
+    "district": null
+  },
+  {
+    "bioguide": "H000874",
+    "type": "rep",
+    "firstName": "Steny H.",
+    "middleInitial": "",
+    "lastName": "Hoyer",
+    "party": "D",
+    "state": "MD",
+    "district": 5
+  },
+  {
+    "bioguide": "H001038",
+    "type": "rep",
+    "firstName": "Brian",
+    "middleInitial": "",
+    "lastName": "Higgins",
+    "party": "D",
+    "state": "NY",
+    "district": 26
+  },
+  {
+    "bioguide": "H001089",
+    "type": "sen",
+    "firstName": "Josh ",
+    "middleInitial": "",
+    "lastName": "Hawley",
+    "party": "R",
+    "state": "MO",
+    "district": null
+  },
+  {
+    "bioguide": "H001046",
+    "type": "sen",
+    "firstName": "Martin ",
+    "middleInitial": "",
+    "lastName": "Heinrich",
+    "party": "D",
+    "state": "NM",
+    "district": null
+  },
+  {
+    "bioguide": "H001047",
+    "type": "rep",
+    "firstName": "Jim",
+    "middleInitial": "",
+    "lastName": "Himes",
+    "party": "D",
+    "state": "CT",
+    "district": 4
+  },
+  {
+    "bioguide": "H001052",
+    "type": "rep",
+    "firstName": "Andy",
+    "middleInitial": "",
+    "lastName": "Harris",
+    "party": "R",
+    "state": "MD",
+    "district": 1
+  },
+  {
+    "bioguide": "H001058",
+    "type": "rep",
+    "firstName": "Bill",
+    "middleInitial": "",
+    "lastName": "Huizenga",
+    "party": "R",
+    "state": "MI",
+    "district": 4
+  },
+  {
+    "bioguide": "H000273",
+    "type": "sen",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Hickenlooper",
+    "party": "D",
+    "state": "CO",
+    "district": null
+  },
+  {
+    "bioguide": "H001066",
+    "type": "rep",
+    "firstName": "Steven",
+    "middleInitial": "",
+    "lastName": "Horsford",
+    "party": "D",
+    "state": "NV",
+    "district": 4
+  },
+  {
+    "bioguide": "H001067",
+    "type": "rep",
+    "firstName": "Richard",
+    "middleInitial": "",
+    "lastName": "Hudson",
+    "party": "R",
+    "state": "NC",
+    "district": 9
+  },
+  {
+    "bioguide": "H001068",
+    "type": "rep",
+    "firstName": "Jared",
+    "middleInitial": "",
+    "lastName": "Huffman",
+    "party": "D",
+    "state": "CA",
+    "district": 2
+  },
+  {
+    "bioguide": "H001072",
+    "type": "rep",
+    "firstName": "French",
+    "middleInitial": "",
+    "lastName": "Hill",
+    "party": "R",
+    "state": "AR",
+    "district": 2
+  },
+  {
+    "bioguide": "H001042",
+    "type": "sen",
+    "firstName": "Mazie ",
+    "middleInitial": "",
+    "lastName": "Hirono",
+    "party": "D",
+    "state": "HI",
+    "district": null
+  },
+  {
+    "bioguide": "H001077",
+    "type": "rep",
+    "firstName": "Clay",
+    "middleInitial": "",
+    "lastName": "Higgins",
+    "party": "R",
+    "state": "LA",
+    "district": 3
+  },
+  {
+    "bioguide": "H001061",
+    "type": "sen",
+    "firstName": "John ",
+    "middleInitial": "",
+    "lastName": "Hoeven",
+    "party": "R",
+    "state": "ND",
+    "district": null
+  },
+  {
+    "bioguide": "H001081",
+    "type": "rep",
+    "firstName": "Jahana",
+    "middleInitial": "",
+    "lastName": "Hayes",
+    "party": "D",
+    "state": "CT",
+    "district": 5
+  },
+  {
+    "bioguide": "H001082",
+    "type": "rep",
+    "firstName": "Kevin",
+    "middleInitial": "",
+    "lastName": "Hern",
+    "party": "R",
+    "state": "OK",
+    "district": 1
+  },
+  {
+    "bioguide": "H001085",
+    "type": "rep",
+    "firstName": "Chrissy",
+    "middleInitial": "",
+    "lastName": "Houlahan",
+    "party": "D",
+    "state": "PA",
+    "district": 6
+  },
+  {
+    "bioguide": "H001086",
+    "type": "rep",
+    "firstName": "Diana",
+    "middleInitial": "",
+    "lastName": "Harshbarger",
+    "party": "R",
+    "state": "TN",
+    "district": 1
+  },
+  {
+    "bioguide": "H001079",
+    "type": "sen",
+    "firstName": "Cindy ",
+    "middleInitial": "",
+    "lastName": "Hyde-Smith",
+    "party": "R",
+    "state": "MS",
+    "district": null
+  },
+  {
+    "bioguide": "H001090",
+    "type": "rep",
+    "firstName": "Josh",
+    "middleInitial": "",
+    "lastName": "Harder",
+    "party": "D",
+    "state": "CA",
+    "district": 9
+  },
+  {
+    "bioguide": "H001091",
+    "type": "rep",
+    "firstName": "Ashley",
+    "middleInitial": "",
+    "lastName": "Hinson",
+    "party": "R",
+    "state": "IA",
+    "district": 2
+  },
+  {
+    "bioguide": "H001093",
+    "type": "rep",
+    "firstName": "Erin",
+    "middleInitial": "",
+    "lastName": "Houchin",
+    "party": "R",
+    "state": "IN",
+    "district": 9
+  },
+  {
+    "bioguide": "H001094",
+    "type": "rep",
+    "firstName": "Val",
+    "middleInitial": "",
+    "lastName": "Hoyle",
+    "party": "D",
+    "state": "OR",
+    "district": 4
+  },
+  {
+    "bioguide": "H001095",
+    "type": "rep",
+    "firstName": "Wesley",
+    "middleInitial": "",
+    "lastName": "Hunt",
+    "party": "R",
+    "state": "TX",
+    "district": 38
+  },
+  {
+    "bioguide": "H001096",
+    "type": "rep",
+    "firstName": "Harriet",
+    "middleInitial": "",
+    "lastName": "Hageman",
+    "party": "R",
+    "state": "WY",
+    "district": 0
+  },
+  {
+    "bioguide": "I000056",
+    "type": "rep",
+    "firstName": "Darrell",
+    "middleInitial": "",
+    "lastName": "Issa",
+    "party": "R",
+    "state": "CA",
+    "district": 48
+  },
+  {
+    "bioguide": "I000058",
+    "type": "rep",
+    "firstName": "Ivey",
+    "middleInitial": "",
+    "lastName": "Glenn",
+    "party": "D",
+    "state": "MD",
+    "district": 4
+  },
+  {
+    "bioguide": "J000032",
+    "type": "rep",
+    "firstName": "Sheila",
+    "middleInitial": "",
+    "lastName": "Jackson Lee",
+    "party": "D",
+    "state": "TX",
+    "district": 18
+  },
+  {
+    "bioguide": "J000288",
+    "type": "rep",
+    "firstName": "Hank",
+    "middleInitial": "",
+    "lastName": "Johnson",
+    "party": "D",
+    "state": "GA",
+    "district": 4
+  },
+  {
+    "bioguide": "J000289",
+    "type": "rep",
+    "firstName": "Jim",
+    "middleInitial": "",
+    "lastName": "Jordan",
+    "party": "R",
+    "state": "OH",
+    "district": 4
+  },
+  {
+    "bioguide": "J000292",
+    "type": "rep",
+    "firstName": "Bill",
+    "middleInitial": "",
+    "lastName": "Johnson",
+    "party": "R",
+    "state": "OH",
+    "district": 6
+  },
+  {
+    "bioguide": "J000293",
+    "type": "sen",
+    "firstName": "Ron ",
+    "middleInitial": "",
+    "lastName": "Johnson",
+    "party": "R",
+    "state": "WI",
+    "district": null
+  },
+  {
+    "bioguide": "J000294",
+    "type": "rep",
+    "firstName": "Hakeem",
+    "middleInitial": "",
+    "lastName": "Jeffries",
+    "party": "D",
+    "state": "NY",
+    "district": 8
+  },
+  {
+    "bioguide": "J000295",
+    "type": "rep",
+    "firstName": "David",
+    "middleInitial": "",
+    "lastName": "Joyce",
+    "party": "R",
+    "state": "OH",
+    "district": 14
+  },
+  {
+    "bioguide": "J000298",
+    "type": "rep",
+    "firstName": "Pramila",
+    "middleInitial": "",
+    "lastName": "Jayapal",
+    "party": "D",
+    "state": "WA",
+    "district": 7
+  },
+  {
+    "bioguide": "J000299",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Johnson",
+    "party": "R",
+    "state": "LA",
+    "district": 4
+  },
+  {
+    "bioguide": "J000301",
+    "type": "rep",
+    "firstName": "Dusty",
+    "middleInitial": "",
+    "lastName": "Johnson",
+    "party": "R",
+    "state": "SD",
+    "district": 0
+  },
+  {
+    "bioguide": "J000302",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Joyce",
+    "party": "R",
+    "state": "PA",
+    "district": 13
+  },
+  {
+    "bioguide": "J000304",
+    "type": "rep",
+    "firstName": "Ronny",
+    "middleInitial": "",
+    "lastName": "Jackson",
+    "party": "R",
+    "state": "TX",
+    "district": 13
+  },
+  {
+    "bioguide": "J000305",
+    "type": "rep",
+    "firstName": "Sara",
+    "middleInitial": "",
+    "lastName": "Jacobs",
+    "party": "D",
+    "state": "CA",
+    "district": 51
+  },
+  {
+    "bioguide": "J000307",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "James",
+    "party": "R",
+    "state": "MI",
+    "district": 10
+  },
+  {
+    "bioguide": "J000308",
+    "type": "rep",
+    "firstName": "Jeff",
+    "middleInitial": "",
+    "lastName": "Jackson",
+    "party": "D",
+    "state": "NC",
+    "district": 14
+  },
+  {
+    "bioguide": "J000309",
+    "type": "rep",
+    "firstName": "Jonathan",
+    "middleInitial": "",
+    "lastName": "Jackson",
+    "party": "D",
+    "state": "IL",
+    "district": 1
+  },
+  {
+    "bioguide": "K000009",
+    "type": "rep",
+    "firstName": "Marcy",
+    "middleInitial": "",
+    "lastName": "Kaptur",
+    "party": "D",
+    "state": "OH",
+    "district": 9
+  },
+  {
+    "bioguide": "K000384",
+    "type": "sen",
+    "firstName": "Tim ",
+    "middleInitial": "",
+    "lastName": "Kaine",
+    "party": "D",
+    "state": "VA",
+    "district": null
+  },
+  {
+    "bioguide": "K000375",
+    "type": "rep",
+    "firstName": "William R.",
+    "middleInitial": "",
+    "lastName": "Keating",
+    "party": "D",
+    "state": "MA",
+    "district": 9
+  },
+  {
+    "bioguide": "K000376",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Kelly",
+    "party": "R",
+    "state": "PA",
+    "district": 16
+  },
+  {
+    "bioguide": "K000377",
+    "type": "sen",
+    "firstName": "Mark",
+    "middleInitial": "",
+    "lastName": "Kelly",
+    "party": "D",
+    "state": "AZ",
+    "district": null
+  },
+  {
+    "bioguide": "K000380",
+    "type": "rep",
+    "firstName": "Daniel",
+    "middleInitial": "",
+    "lastName": "Kildee",
+    "party": "D",
+    "state": "MI",
+    "district": 8
+  },
+  {
+    "bioguide": "K000381",
+    "type": "rep",
+    "firstName": "Derek",
+    "middleInitial": "",
+    "lastName": "Kilmer",
+    "party": "D",
+    "state": "WA",
+    "district": 6
+  },
+  {
+    "bioguide": "K000382",
+    "type": "rep",
+    "firstName": "Ann",
+    "middleInitial": "",
+    "lastName": "Kuster",
+    "party": "D",
+    "state": "NH",
+    "district": 2
+  },
+  {
+    "bioguide": "K000393",
+    "type": "sen",
+    "firstName": "John Neely ",
+    "middleInitial": "",
+    "lastName": "Kennedy",
+    "party": "R",
+    "state": "LA",
+    "district": null
+  },
+  {
+    "bioguide": "K000383",
+    "type": "sen",
+    "firstName": "Angus ",
+    "middleInitial": "",
+    "lastName": "King",
+    "party": "I",
+    "state": "ME",
+    "district": null
+  },
+  {
+    "bioguide": "K000385",
+    "type": "rep",
+    "firstName": "Robin L.",
+    "middleInitial": "",
+    "lastName": "Kelly",
+    "party": "D",
+    "state": "IL",
+    "district": 2
+  },
+  {
+    "bioguide": "K000388",
+    "type": "rep",
+    "firstName": "Trent",
+    "middleInitial": "",
+    "lastName": "Kelly",
+    "party": "R",
+    "state": "MS",
+    "district": 1
+  },
+  {
+    "bioguide": "K000389",
+    "type": "rep",
+    "firstName": "Ro",
+    "middleInitial": "",
+    "lastName": "Khanna",
+    "party": "D",
+    "state": "CA",
+    "district": 17
+  },
+  {
+    "bioguide": "K000391",
+    "type": "rep",
+    "firstName": "Raja",
+    "middleInitial": "",
+    "lastName": "Krishnamoorthi",
+    "party": "D",
+    "state": "IL",
+    "district": 8
+  },
+  {
+    "bioguide": "K000392",
+    "type": "rep",
+    "firstName": "David",
+    "middleInitial": "",
+    "lastName": "Kustoff",
+    "party": "R",
+    "state": "TN",
+    "district": 8
+  },
+  {
+    "bioguide": "K000367",
+    "type": "sen",
+    "firstName": "Amy ",
+    "middleInitial": "",
+    "lastName": "Klobuchar",
+    "party": "D",
+    "state": "MN",
+    "district": null
+  },
+  {
+    "bioguide": "K000394",
+    "type": "rep",
+    "firstName": "Andy",
+    "middleInitial": "",
+    "lastName": "Kim",
+    "party": "D",
+    "state": "NJ",
+    "district": 3
+  },
+  {
+    "bioguide": "K000397",
+    "type": "rep",
+    "firstName": "Young",
+    "middleInitial": "",
+    "lastName": "Kim",
+    "party": "R",
+    "state": "CA",
+    "district": 40
+  },
+  {
+    "bioguide": "K000398",
+    "type": "rep",
+    "firstName": "Thomas",
+    "middleInitial": "",
+    "lastName": "Kean Jr.",
+    "party": "R",
+    "state": "NJ",
+    "district": 7
+  },
+  {
+    "bioguide": "K000399",
+    "type": "rep",
+    "firstName": "Jen A.",
+    "middleInitial": "",
+    "lastName": "Kiggans",
+    "party": "R",
+    "state": "VA",
+    "district": 2
+  },
+  {
+    "bioguide": "K000400",
+    "type": "rep",
+    "firstName": "Sydney",
+    "middleInitial": "",
+    "lastName": "Kamlager",
+    "party": "D",
+    "state": "CA",
+    "district": 37
+  },
+  {
+    "bioguide": "K000401",
+    "type": "rep",
+    "firstName": "Kevin",
+    "middleInitial": "",
+    "lastName": "Kiley",
+    "party": "R",
+    "state": "CA",
+    "district": 3
+  },
+  {
+    "bioguide": "L000266",
+    "type": "rep",
+    "firstName": "Jake",
+    "middleInitial": "",
+    "lastName": "LaTurner ",
+    "party": "R",
+    "state": "KS",
+    "district": 2
+  },
+  {
+    "bioguide": "L000273",
+    "type": "rep",
+    "firstName": "Teresa",
+    "middleInitial": "",
+    "lastName": "Leger Fernandez ",
+    "party": "D",
+    "state": "NM",
+    "district": 3
+  },
+  {
+    "bioguide": "L000397",
+    "type": "rep",
+    "firstName": "Zoe",
+    "middleInitial": "",
+    "lastName": "Lofgren",
+    "party": "D",
+    "state": "CA",
+    "district": 18
+  },
+  {
+    "bioguide": "L000491",
+    "type": "rep",
+    "firstName": "Frank D.",
+    "middleInitial": "",
+    "lastName": "Lucas",
+    "party": "R",
+    "state": "OK",
+    "district": 3
+  },
+  {
+    "bioguide": "L000551",
+    "type": "rep",
+    "firstName": "Barbara",
+    "middleInitial": "",
+    "lastName": "Lee",
+    "party": "D",
+    "state": "CA",
+    "district": 12
+  },
+  {
+    "bioguide": "L000557",
+    "type": "rep",
+    "firstName": "John B.",
+    "middleInitial": "",
+    "lastName": "Larson",
+    "party": "D",
+    "state": "CT",
+    "district": 1
+  },
+  {
+    "bioguide": "L000560",
+    "type": "rep",
+    "firstName": "Rick",
+    "middleInitial": "",
+    "lastName": "Larsen",
+    "party": "D",
+    "state": "WA",
+    "district": 2
+  },
+  {
+    "bioguide": "L000562",
+    "type": "rep",
+    "firstName": "Stephen F.",
+    "middleInitial": "",
+    "lastName": "Lynch",
+    "party": "D",
+    "state": "MA",
+    "district": 8
+  },
+  {
+    "bioguide": "L000564",
+    "type": "rep",
+    "firstName": "Doug",
+    "middleInitial": "",
+    "lastName": "Lamborn",
+    "party": "R",
+    "state": "CO",
+    "district": 5
+  },
+  {
+    "bioguide": "L000566",
+    "type": "rep",
+    "firstName": "Robert E.",
+    "middleInitial": "",
+    "lastName": "Latta",
+    "party": "R",
+    "state": "OH",
+    "district": 5
+  },
+  {
+    "bioguide": "L000569",
+    "type": "rep",
+    "firstName": "Blaine",
+    "middleInitial": "",
+    "lastName": "Luetkemeyer",
+    "party": "R",
+    "state": "MO",
+    "district": 3
+  },
+  {
+    "bioguide": "L000575",
+    "type": "sen",
+    "firstName": "James ",
+    "middleInitial": "",
+    "lastName": "Lankford",
+    "party": "R",
+    "state": "OK",
+    "district": null
+  },
+  {
+    "bioguide": "L000577",
+    "type": "sen",
+    "firstName": "Mike ",
+    "middleInitial": "",
+    "lastName": "Lee",
+    "party": "R",
+    "state": "UT",
+    "district": null
+  },
+  {
+    "bioguide": "L000570",
+    "type": "sen",
+    "firstName": "Ben Ray",
+    "middleInitial": "",
+    "lastName": "Luján",
+    "party": "D",
+    "state": "NM",
+    "district": null
+  },
+  {
+    "bioguide": "L000571",
+    "type": "sen",
+    "firstName": "Cynthia",
+    "middleInitial": "",
+    "lastName": "Lummis",
+    "party": "R",
+    "state": "WY",
+    "district": null
+  },
+  {
+    "bioguide": "L000578",
+    "type": "rep",
+    "firstName": "Doug",
+    "middleInitial": "",
+    "lastName": "LaMalfa",
+    "party": "R",
+    "state": "CA",
+    "district": 1
+  },
+  {
+    "bioguide": "L000582",
+    "type": "rep",
+    "firstName": "Ted",
+    "middleInitial": "",
+    "lastName": "Lieu",
+    "party": "D",
+    "state": "CA",
+    "district": 36
+  },
+  {
+    "bioguide": "L000583",
+    "type": "rep",
+    "firstName": "Barry",
+    "middleInitial": "",
+    "lastName": "Loudermilk",
+    "party": "R",
+    "state": "GA",
+    "district": 11
+  },
+  {
+    "bioguide": "L000585",
+    "type": "rep",
+    "firstName": "Darin",
+    "middleInitial": "",
+    "lastName": "LaHood",
+    "party": "R",
+    "state": "IL",
+    "district": 16
+  },
+  {
+    "bioguide": "L000589",
+    "type": "rep",
+    "firstName": "Debbie",
+    "middleInitial": "",
+    "lastName": "Lesko",
+    "party": "R",
+    "state": "AZ",
+    "district": 8
+  },
+  {
+    "bioguide": "L000590",
+    "type": "rep",
+    "firstName": "Susie",
+    "middleInitial": "",
+    "lastName": "Lee",
+    "party": "D",
+    "state": "NV",
+    "district": 3
+  },
+  {
+    "bioguide": "L000593",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Levin",
+    "party": "D",
+    "state": "CA",
+    "district": 49
+  },
+  {
+    "bioguide": "L000595",
+    "type": "rep",
+    "firstName": "Julia",
+    "middleInitial": "",
+    "lastName": "Letlow",
+    "party": "R",
+    "state": "LA",
+    "district": 5
+  },
+  {
+    "bioguide": "L000596",
+    "type": "rep",
+    "firstName": "Anna Paulina",
+    "middleInitial": "",
+    "lastName": "Luna",
+    "party": "R",
+    "state": "FL",
+    "district": 13
+  },
+  {
+    "bioguide": "L000597",
+    "type": "rep",
+    "firstName": "Laurel",
+    "middleInitial": "",
+    "lastName": "Lee",
+    "party": "R",
+    "state": "FL",
+    "district": 15
+  },
+  {
+    "bioguide": "L000598",
+    "type": "rep",
+    "firstName": "Nicholas J.",
+    "middleInitial": "",
+    "lastName": "LaLota",
+    "party": "R",
+    "state": "NY",
+    "district": 1
+  },
+  {
+    "bioguide": "L000599",
+    "type": "rep",
+    "firstName": "Michael",
+    "middleInitial": "",
+    "lastName": "Lawler",
+    "party": "R",
+    "state": "NY",
+    "district": 17
+  },
+  {
+    "bioguide": "L000600",
+    "type": "rep",
+    "firstName": "Nick",
+    "middleInitial": "",
+    "lastName": "Langworthy",
+    "party": "R",
+    "state": "NY",
+    "district": 23
+  },
+  {
+    "bioguide": "L000601",
+    "type": "rep",
+    "firstName": "Greg",
+    "middleInitial": "",
+    "lastName": "Landsman",
+    "party": "D",
+    "state": "OH",
+    "district": 1
+  },
+  {
+    "bioguide": "L000602",
+    "type": "rep",
+    "firstName": "Summer",
+    "middleInitial": "",
+    "lastName": "Lee",
+    "party": "D",
+    "state": "PA",
+    "district": 12
+  },
+  {
+    "bioguide": "L000603",
+    "type": "rep",
+    "firstName": "Morgan",
+    "middleInitial": "",
+    "lastName": "Luttrell",
+    "party": "R",
+    "state": "TX",
+    "district": 8
+  },
+  {
+    "bioguide": "M001183",
+    "type": "sen",
+    "firstName": "Joe ",
+    "middleInitial": "",
+    "lastName": "Manchin III",
+    "party": "D",
+    "state": "WV",
+    "district": null
+  },
+  {
+    "bioguide": "M000194",
+    "type": "rep",
+    "firstName": "Nancy",
+    "middleInitial": "",
+    "lastName": "Mace",
+    "party": "R",
+    "state": "SC",
+    "district": 1
+  },
+  {
+    "bioguide": "M000312",
+    "type": "rep",
+    "firstName": "Jim",
+    "middleInitial": "",
+    "lastName": "McGovern",
+    "party": "D",
+    "state": "MA",
+    "district": 2
+  },
+  {
+    "bioguide": "M000317",
+    "type": "rep",
+    "firstName": "Nicole",
+    "middleInitial": "",
+    "lastName": "Malliotakis",
+    "party": "R",
+    "state": "NY",
+    "district": 11
+  },
+  {
+    "bioguide": "M000133",
+    "type": "sen",
+    "firstName": "Edward J. ",
+    "middleInitial": "",
+    "lastName": "Markey",
+    "party": "D",
+    "state": "MA",
+    "district": null
+  },
+  {
+    "bioguide": "M001198",
+    "type": "sen",
+    "firstName": "Roger",
+    "middleInitial": "",
+    "lastName": "Marshall",
+    "party": "R",
+    "state": "KS",
+    "district": null
+  },
+  {
+    "bioguide": "M000687",
+    "type": "rep",
+    "firstName": "Kweisi",
+    "middleInitial": "",
+    "lastName": "Mfume",
+    "party": "D",
+    "state": "MD",
+    "district": 7
+  },
+  {
+    "bioguide": "M000871",
+    "type": "rep",
+    "firstName": "Tracey",
+    "middleInitial": "",
+    "lastName": "Mann",
+    "party": "R",
+    "state": "KS",
+    "district": 1
+  },
+  {
+    "bioguide": "M000355",
+    "type": "sen",
+    "firstName": "Mitch ",
+    "middleInitial": "",
+    "lastName": "McConnell",
+    "party": "R",
+    "state": "KY",
+    "district": null
+  },
+  {
+    "bioguide": "M000639",
+    "type": "sen",
+    "firstName": "Robert ",
+    "middleInitial": "",
+    "lastName": "Menendez",
+    "party": "D",
+    "state": "NJ",
+    "district": null
+  },
+  {
+    "bioguide": "M001135",
+    "type": "rep",
+    "firstName": "Kathy",
+    "middleInitial": "",
+    "lastName": "Manning",
+    "party": "D",
+    "state": "NC",
+    "district": 6
+  },
+  {
+    "bioguide": "M001136",
+    "type": "rep",
+    "firstName": "Lisa C.",
+    "middleInitial": "",
+    "lastName": "McClain",
+    "party": "R",
+    "state": "MI",
+    "district": 9
+  },
+  {
+    "bioguide": "M001137",
+    "type": "rep",
+    "firstName": "Gregory W.",
+    "middleInitial": "",
+    "lastName": "Meeks",
+    "party": "D",
+    "state": "NY",
+    "district": 5
+  },
+  {
+    "bioguide": "M001143",
+    "type": "rep",
+    "firstName": "Betty",
+    "middleInitial": "",
+    "lastName": "McCollum",
+    "party": "D",
+    "state": "MN",
+    "district": 4
+  },
+  {
+    "bioguide": "M001176",
+    "type": "sen",
+    "firstName": "Jeff ",
+    "middleInitial": "",
+    "lastName": "Merkley",
+    "party": "D",
+    "state": "OR",
+    "district": null
+  },
+  {
+    "bioguide": "M001156",
+    "type": "rep",
+    "firstName": "Patrick T.",
+    "middleInitial": "",
+    "lastName": "McHenry",
+    "party": "R",
+    "state": "NC",
+    "district": 10
+  },
+  {
+    "bioguide": "M001157",
+    "type": "rep",
+    "firstName": "Michael",
+    "middleInitial": "",
+    "lastName": "McCaul",
+    "party": "R",
+    "state": "TX",
+    "district": 10
+  },
+  {
+    "bioguide": "M001159",
+    "type": "rep",
+    "firstName": "Cathy",
+    "middleInitial": "",
+    "lastName": "McMorris Rodgers",
+    "party": "R",
+    "state": "WA",
+    "district": 5
+  },
+  {
+    "bioguide": "M001160",
+    "type": "rep",
+    "firstName": "Gwen",
+    "middleInitial": "",
+    "lastName": "Moore",
+    "party": "D",
+    "state": "WI",
+    "district": 4
+  },
+  {
+    "bioguide": "M001163",
+    "type": "rep",
+    "firstName": "Doris",
+    "middleInitial": "",
+    "lastName": "Matsui",
+    "party": "D",
+    "state": "CA",
+    "district": 7
+  },
+  {
+    "bioguide": "M001165",
+    "type": "rep",
+    "firstName": "Kevin",
+    "middleInitial": "",
+    "lastName": "McCarthy",
+    "party": "R",
+    "state": "CA",
+    "district": 20
+  },
+  {
+    "bioguide": "M000934",
+    "type": "sen",
+    "firstName": "Jerry ",
+    "middleInitial": "",
+    "lastName": "Moran",
+    "party": "R",
+    "state": "KS",
+    "district": null
+  },
+  {
+    "bioguide": "M001190",
+    "type": "sen",
+    "firstName": "Markwayne",
+    "middleInitial": "",
+    "lastName": "Mullin",
+    "party": "R",
+    "state": "OK",
+    "district": null
+  },
+  {
+    "bioguide": "M001177",
+    "type": "rep",
+    "firstName": "Tom",
+    "middleInitial": "",
+    "lastName": "McClintock",
+    "party": "R",
+    "state": "CA",
+    "district": 5
+  },
+  {
+    "bioguide": "M001153",
+    "type": "sen",
+    "firstName": "Lisa ",
+    "middleInitial": "",
+    "lastName": "Murkowski",
+    "party": "R",
+    "state": "AK",
+    "district": null
+  },
+  {
+    "bioguide": "M001184",
+    "type": "rep",
+    "firstName": "Thomas",
+    "middleInitial": "",
+    "lastName": "Massie",
+    "party": "R",
+    "state": "KY",
+    "district": 4
+  },
+  {
+    "bioguide": "M001188",
+    "type": "rep",
+    "firstName": "Grace",
+    "middleInitial": "",
+    "lastName": "Meng",
+    "party": "D",
+    "state": "NY",
+    "district": 6
+  },
+  {
+    "bioguide": "M001169",
+    "type": "sen",
+    "firstName": "Chris ",
+    "middleInitial": "",
+    "lastName": "Murphy",
+    "party": "D",
+    "state": "CT",
+    "district": null
+  },
+  {
+    "bioguide": "M001194",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Moolenaar",
+    "party": "R",
+    "state": "MI",
+    "district": 2
+  },
+  {
+    "bioguide": "M001195",
+    "type": "rep",
+    "firstName": "Alex",
+    "middleInitial": "",
+    "lastName": "Mooney",
+    "party": "R",
+    "state": "WV",
+    "district": 2
+  },
+  {
+    "bioguide": "M001196",
+    "type": "rep",
+    "firstName": "Seth",
+    "middleInitial": "",
+    "lastName": "Moulton",
+    "party": "D",
+    "state": "MA",
+    "district": 6
+  },
+  {
+    "bioguide": "M001111",
+    "type": "sen",
+    "firstName": "Patty ",
+    "middleInitial": "",
+    "lastName": "Murray",
+    "party": "D",
+    "state": "WA",
+    "district": null
+  },
+  {
+    "bioguide": "M001199",
+    "type": "rep",
+    "firstName": "Brian",
+    "middleInitial": "",
+    "lastName": "Mast",
+    "party": "R",
+    "state": "FL",
+    "district": 21
+  },
+  {
+    "bioguide": "M001204",
+    "type": "rep",
+    "firstName": "Dan",
+    "middleInitial": "",
+    "lastName": "Meuser",
+    "party": "R",
+    "state": "PA",
+    "district": 9
+  },
+  {
+    "bioguide": "M001205",
+    "type": "rep",
+    "firstName": "Carol",
+    "middleInitial": "",
+    "lastName": "Miller",
+    "party": "R",
+    "state": "WV",
+    "district": 1
+  },
+  {
+    "bioguide": "M001206",
+    "type": "rep",
+    "firstName": "Joseph",
+    "middleInitial": "",
+    "lastName": "Morelle",
+    "party": "D",
+    "state": "NY",
+    "district": 25
+  },
+  {
+    "bioguide": "M001208",
+    "type": "rep",
+    "firstName": "Lucy",
+    "middleInitial": "",
+    "lastName": "McBath",
+    "party": "D",
+    "state": "GA",
+    "district": 7
+  },
+  {
+    "bioguide": "M001210",
+    "type": "rep",
+    "firstName": "Greg",
+    "middleInitial": "",
+    "lastName": "Murphy",
+    "party": "R",
+    "state": "NC",
+    "district": 3
+  },
+  {
+    "bioguide": "M001211",
+    "type": "rep",
+    "firstName": "Mary E.",
+    "middleInitial": "",
+    "lastName": "Miller",
+    "party": "R",
+    "state": "IL",
+    "district": 15
+  },
+  {
+    "bioguide": "M001212",
+    "type": "rep",
+    "firstName": "Barry",
+    "middleInitial": "",
+    "lastName": "Moore",
+    "party": "R",
+    "state": "AL",
+    "district": 2
+  },
+  {
+    "bioguide": "M001213",
+    "type": "rep",
+    "firstName": "Blake D.",
+    "middleInitial": "",
+    "lastName": "Moore",
+    "party": "R",
+    "state": "UT",
+    "district": 1
+  },
+  {
+    "bioguide": "M001214",
+    "type": "rep",
+    "firstName": "Frank",
+    "middleInitial": "",
+    "lastName": "Mrvan",
+    "party": "D",
+    "state": "IN",
+    "district": 1
+  },
+  {
+    "bioguide": "M001215",
+    "type": "rep",
+    "firstName": "Mariannette",
+    "middleInitial": "",
+    "lastName": "Miller-Meeks",
+    "party": "R",
+    "state": "IA",
+    "district": 1
+  },
+  {
+    "bioguide": "M001216",
+    "type": "rep",
+    "firstName": "Cory",
+    "middleInitial": "",
+    "lastName": "Mills",
+    "party": "R",
+    "state": "FL",
+    "district": 7
+  },
+  {
+    "bioguide": "M001217",
+    "type": "rep",
+    "firstName": "Jared",
+    "middleInitial": "",
+    "lastName": "Moskowitz",
+    "party": "D",
+    "state": "FL",
+    "district": 23
+  },
+  {
+    "bioguide": "M001218",
+    "type": "rep",
+    "firstName": "Rich",
+    "middleInitial": "",
+    "lastName": "McCormick",
+    "party": "R",
+    "state": "GA",
+    "district": 6
+  },
+  {
+    "bioguide": "M001220",
+    "type": "rep",
+    "firstName": "Morgan",
+    "middleInitial": "",
+    "lastName": "McGarvey",
+    "party": "D",
+    "state": "KY",
+    "district": 3
+  },
+  {
+    "bioguide": "M001221",
+    "type": "rep",
+    "firstName": "Marcus",
+    "middleInitial": "",
+    "lastName": "Molinaro",
+    "party": "R",
+    "state": "NY",
+    "district": 19
+  },
+  {
+    "bioguide": "M001222",
+    "type": "rep",
+    "firstName": "Max",
+    "middleInitial": "",
+    "lastName": "Miller",
+    "party": "R",
+    "state": "OH",
+    "district": 7
+  },
+  {
+    "bioguide": "M001223",
+    "type": "rep",
+    "firstName": "Seth",
+    "middleInitial": "",
+    "lastName": "Magaziner",
+    "party": "D",
+    "state": "RI",
+    "district": 2
+  },
+  {
+    "bioguide": "M001224",
+    "type": "rep",
+    "firstName": "Nathaniel",
+    "middleInitial": "",
+    "lastName": "Moran",
+    "party": "R",
+    "state": "TX",
+    "district": 1
+  },
+  {
+    "bioguide": "M001225",
+    "type": "rep",
+    "firstName": "Kevin",
+    "middleInitial": "",
+    "lastName": "Mullin",
+    "party": "D",
+    "state": "CA",
+    "district": 15
+  },
+  {
+    "bioguide": "M001226",
+    "type": "rep",
+    "firstName": "Robert ",
+    "middleInitial": "",
+    "lastName": "Menendez",
+    "party": "D",
+    "state": "NJ",
+    "district": 8
+  },
+  {
+    "bioguide": "N000002",
+    "type": "rep",
+    "firstName": "Jerrold",
+    "middleInitial": "",
+    "lastName": "Nadler",
+    "party": "D",
+    "state": "NY",
+    "district": 12
+  },
+  {
+    "bioguide": "N000015",
+    "type": "rep",
+    "firstName": "Richard E.",
+    "middleInitial": "",
+    "lastName": "Neal",
+    "party": "D",
+    "state": "MA",
+    "district": 1
+  },
+  {
+    "bioguide": "N000026",
+    "type": "rep",
+    "firstName": "Troy E.",
+    "middleInitial": "",
+    "lastName": "Nehls",
+    "party": "R",
+    "state": "TX",
+    "district": 22
+  },
+  {
+    "bioguide": "N000179",
+    "type": "rep",
+    "firstName": "Grace F.",
+    "middleInitial": "",
+    "lastName": "Napolitano",
+    "party": "D",
+    "state": "CA",
+    "district": 31
+  },
+  {
+    "bioguide": "N000188",
+    "type": "rep",
+    "firstName": "Donald W.",
+    "middleInitial": "",
+    "lastName": "Norcross",
+    "party": "D",
+    "state": "NJ",
+    "district": 1
+  },
+  {
+    "bioguide": "N000189",
+    "type": "rep",
+    "firstName": "Dan",
+    "middleInitial": "",
+    "lastName": "Newhouse",
+    "party": "R",
+    "state": "WA",
+    "district": 4
+  },
+  {
+    "bioguide": "N000190",
+    "type": "rep",
+    "firstName": "Ralph",
+    "middleInitial": "",
+    "lastName": "Norman",
+    "party": "R",
+    "state": "SC",
+    "district": 5
+  },
+  {
+    "bioguide": "N000191",
+    "type": "rep",
+    "firstName": "Joe",
+    "middleInitial": "",
+    "lastName": "Neguse",
+    "party": "D",
+    "state": "CO",
+    "district": 2
+  },
+  {
+    "bioguide": "N000193",
+    "type": "rep",
+    "firstName": "Zach",
+    "middleInitial": "",
+    "lastName": "Nunn",
+    "party": "R",
+    "state": "IA",
+    "district": 3
+  },
+  {
+    "bioguide": "N000194",
+    "type": "rep",
+    "firstName": "Wiley",
+    "middleInitial": "",
+    "lastName": "Nickel",
+    "party": "D",
+    "state": "NC",
+    "district": 13
+  },
+  {
+    "bioguide": "O000019",
+    "type": "rep",
+    "firstName": "Jay",
+    "middleInitial": "",
+    "lastName": "Obernolte",
+    "party": "R",
+    "state": "CA",
+    "district": 23
+  },
+  {
+    "bioguide": "O000086",
+    "type": "rep",
+    "firstName": "Burgess",
+    "middleInitial": "",
+    "lastName": "Owens",
+    "party": "R",
+    "state": "UT",
+    "district": 4
+  },
+  {
+    "bioguide": "O000172",
+    "type": "rep",
+    "firstName": "Alexandria",
+    "middleInitial": "",
+    "lastName": "Ocasio-Cortez",
+    "party": "D",
+    "state": "NY",
+    "district": 14
+  },
+  {
+    "bioguide": "O000173",
+    "type": "rep",
+    "firstName": "Ilhan",
+    "middleInitial": "",
+    "lastName": "Omar",
+    "party": "D",
+    "state": "MN",
+    "district": 5
+  },
+  {
+    "bioguide": "O000174",
+    "type": "sen",
+    "firstName": "Jon",
+    "middleInitial": "",
+    "lastName": "Ossoff",
+    "party": "D",
+    "state": "GA",
+    "district": null
+  },
+  {
+    "bioguide": "O000175",
+    "type": "rep",
+    "firstName": "Andy",
+    "middleInitial": "",
+    "lastName": "Ogles",
+    "party": "R",
+    "state": "TN",
+    "district": 5
+  },
+  {
+    "bioguide": "P000034",
+    "type": "rep",
+    "firstName": "Frank",
+    "middleInitial": "",
+    "lastName": "Pallone Jr.",
+    "party": "D",
+    "state": "NJ",
+    "district": 6
+  },
+  {
+    "bioguide": "P000048",
+    "type": "rep",
+    "firstName": "August",
+    "middleInitial": "",
+    "lastName": "Pfluger",
+    "party": "R",
+    "state": "TX",
+    "district": 11
+  },
+  {
+    "bioguide": "P000096",
+    "type": "rep",
+    "firstName": "Bill",
+    "middleInitial": "",
+    "lastName": "Pascrell Jr.",
+    "party": "D",
+    "state": "NJ",
+    "district": 9
+  },
+  {
+    "bioguide": "P000145",
+    "type": "sen",
+    "firstName": "Alex",
+    "middleInitial": "",
+    "lastName": "Padilla",
+    "party": "D",
+    "state": "CA",
+    "district": null
+  },
+  {
+    "bioguide": "P000197",
+    "type": "rep",
+    "firstName": "Nancy",
+    "middleInitial": "",
+    "lastName": "Pelosi",
+    "party": "D",
+    "state": "CA",
+    "district": 11
+  },
+  {
+    "bioguide": "P000603",
+    "type": "sen",
+    "firstName": "Rand ",
+    "middleInitial": "",
+    "lastName": "Paul",
+    "party": "R",
+    "state": "KY",
+    "district": null
+  },
+  {
+    "bioguide": "P000597",
+    "type": "rep",
+    "firstName": "Chellie",
+    "middleInitial": "",
+    "lastName": "Pingree",
+    "party": "D",
+    "state": "ME",
+    "district": 1
+  },
+  {
+    "bioguide": "P000599",
+    "type": "rep",
+    "firstName": "Bill",
+    "middleInitial": "",
+    "lastName": "Posey",
+    "party": "R",
+    "state": "FL",
+    "district": 8
+  },
+  {
+    "bioguide": "P000595",
+    "type": "sen",
+    "firstName": "Gary ",
+    "middleInitial": "",
+    "lastName": "Peters",
+    "party": "D",
+    "state": "MI",
+    "district": null
+  },
+  {
+    "bioguide": "P000604",
+    "type": "rep",
+    "firstName": "Donald",
+    "middleInitial": "",
+    "lastName": "Payne Jr.",
+    "party": "D",
+    "state": "NJ",
+    "district": 10
+  },
+  {
+    "bioguide": "P000605",
+    "type": "rep",
+    "firstName": "Scott",
+    "middleInitial": "",
+    "lastName": "Perry",
+    "party": "R",
+    "state": "PA",
+    "district": 10
+  },
+  {
+    "bioguide": "P000607",
+    "type": "rep",
+    "firstName": "Mark",
+    "middleInitial": "",
+    "lastName": "Pocan",
+    "party": "D",
+    "state": "WI",
+    "district": 2
+  },
+  {
+    "bioguide": "P000608",
+    "type": "rep",
+    "firstName": "Scott",
+    "middleInitial": "",
+    "lastName": "Peters",
+    "party": "D",
+    "state": "CA",
+    "district": 50
+  },
+  {
+    "bioguide": "P000609",
+    "type": "rep",
+    "firstName": "Gary",
+    "middleInitial": "",
+    "lastName": "Palmer",
+    "party": "R",
+    "state": "AL",
+    "district": 6
+  },
+  {
+    "bioguide": "P000613",
+    "type": "rep",
+    "firstName": "Jimmy",
+    "middleInitial": "",
+    "lastName": "Panetta",
+    "party": "D",
+    "state": "CA",
+    "district": 19
+  },
+  {
+    "bioguide": "P000614",
+    "type": "rep",
+    "firstName": "Chris",
+    "middleInitial": "",
+    "lastName": "Pappas",
+    "party": "D",
+    "state": "NH",
+    "district": 1
+  },
+  {
+    "bioguide": "P000615",
+    "type": "rep",
+    "firstName": "Greg",
+    "middleInitial": "",
+    "lastName": "Pence",
+    "party": "R",
+    "state": "IN",
+    "district": 6
+  },
+  {
+    "bioguide": "P000616",
+    "type": "rep",
+    "firstName": "Dean",
+    "middleInitial": "",
+    "lastName": "Phillips",
+    "party": "D",
+    "state": "MN",
+    "district": 3
+  },
+  {
+    "bioguide": "P000617",
+    "type": "rep",
+    "firstName": "Ayanna",
+    "middleInitial": "",
+    "lastName": "Pressley",
+    "party": "D",
+    "state": "MA",
+    "district": 7
+  },
+  {
+    "bioguide": "P000618",
+    "type": "rep",
+    "firstName": "Katie",
+    "middleInitial": "",
+    "lastName": "Porter",
+    "party": "D",
+    "state": "CA",
+    "district": 47
+  },
+  {
+    "bioguide": "P000619",
+    "type": "rep",
+    "firstName": "Mary",
+    "middleInitial": "",
+    "lastName": "Peltola",
+    "party": "D",
+    "state": "AK",
+    "district": 0
+  },
+  {
+    "bioguide": "P000620",
+    "type": "rep",
+    "firstName": "Brittany",
+    "middleInitial": "",
+    "lastName": "Pettersen",
+    "party": "D",
+    "state": "CO",
+    "district": 7
+  },
+  {
+    "bioguide": "Q000023",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Quigley",
+    "party": "D",
+    "state": "IL",
+    "district": 5
+  },
+  {
+    "bioguide": "R000103",
+    "type": "rep",
+    "firstName": "Matthew M.",
+    "middleInitial": "",
+    "lastName": "Rosendale",
+    "party": "R",
+    "state": "MT",
+    "district": 2
+  },
+  {
+    "bioguide": "R000122",
+    "type": "sen",
+    "firstName": "Jack ",
+    "middleInitial": "",
+    "lastName": "Reed",
+    "party": "D",
+    "state": "RI",
+    "district": null
+  },
+  {
+    "bioguide": "R000305",
+    "type": "rep",
+    "firstName": "Deborah",
+    "middleInitial": "",
+    "lastName": "Ross",
+    "party": "D",
+    "state": "NC",
+    "district": 2
+  },
+  {
+    "bioguide": "R000395",
+    "type": "rep",
+    "firstName": "Harold",
+    "middleInitial": "",
+    "lastName": "Rogers",
+    "party": "R",
+    "state": "KY",
+    "district": 5
+  },
+  {
+    "bioguide": "R000575",
+    "type": "rep",
+    "firstName": "Mike D.",
+    "middleInitial": "",
+    "lastName": "Rogers",
+    "party": "R",
+    "state": "AL",
+    "district": 3
+  },
+  {
+    "bioguide": "R000576",
+    "type": "rep",
+    "firstName": "C.A. Dutch",
+    "middleInitial": "",
+    "lastName": "Ruppersberger",
+    "party": "D",
+    "state": "MD",
+    "district": 2
+  },
+  {
+    "bioguide": "R000579",
+    "type": "rep",
+    "firstName": "Patrick",
+    "middleInitial": "",
+    "lastName": "Ryan",
+    "party": "D",
+    "state": "NY",
+    "district": 18
+  },
+  {
+    "bioguide": "R000618",
+    "type": "sen",
+    "firstName": "Pete",
+    "middleInitial": "",
+    "lastName": "Ricketts",
+    "party": "R",
+    "state": "NE",
+    "district": null
+  },
+  {
+    "bioguide": "R000584",
+    "type": "sen",
+    "firstName": "James E. ",
+    "middleInitial": "",
+    "lastName": "Risch",
+    "party": "R",
+    "state": "ID",
+    "district": null
+  },
+  {
+    "bioguide": "R000599",
+    "type": "rep",
+    "firstName": "Raul",
+    "middleInitial": "",
+    "lastName": "Ruiz",
+    "party": "D",
+    "state": "CA",
+    "district": 25
+  },
+  {
+    "bioguide": "R000603",
+    "type": "rep",
+    "firstName": "David",
+    "middleInitial": "",
+    "lastName": "Rouzer",
+    "party": "R",
+    "state": "NC",
+    "district": 7
+  },
+  {
+    "bioguide": "R000615",
+    "type": "sen",
+    "firstName": "Mitt",
+    "middleInitial": "",
+    "lastName": "Romney",
+    "party": "R",
+    "state": "UT",
+    "district": null
+  },
+  {
+    "bioguide": "R000606",
+    "type": "rep",
+    "firstName": "Jamie B.",
+    "middleInitial": "",
+    "lastName": "Raskin",
+    "party": "D",
+    "state": "MD",
+    "district": 8
+  },
+  {
+    "bioguide": "R000608",
+    "type": "sen",
+    "firstName": "Jacky ",
+    "middleInitial": "",
+    "lastName": "Rosen",
+    "party": "D",
+    "state": "NV",
+    "district": null
+  },
+  {
+    "bioguide": "R000609",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Rutherford",
+    "party": "R",
+    "state": "FL",
+    "district": 5
+  },
+  {
+    "bioguide": "R000610",
+    "type": "rep",
+    "firstName": "Guy",
+    "middleInitial": "",
+    "lastName": "Reschenthaler",
+    "party": "R",
+    "state": "PA",
+    "district": 14
+  },
+  {
+    "bioguide": "R000612",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Rose",
+    "party": "R",
+    "state": "TN",
+    "district": 6
+  },
+  {
+    "bioguide": "R000614",
+    "type": "rep",
+    "firstName": "Chip",
+    "middleInitial": "",
+    "lastName": "Roy",
+    "party": "R",
+    "state": "TX",
+    "district": 21
+  },
+  {
+    "bioguide": "R000605",
+    "type": "sen",
+    "firstName": "Mike ",
+    "middleInitial": "",
+    "lastName": "Rounds",
+    "party": "R",
+    "state": "SD",
+    "district": null
+  },
+  {
+    "bioguide": "R000617",
+    "type": "rep",
+    "firstName": "Delia",
+    "middleInitial": "",
+    "lastName": "Ramirez",
+    "party": "D",
+    "state": "IL",
+    "district": 3
+  },
+  {
+    "bioguide": "R000595",
+    "type": "sen",
+    "firstName": "Marco ",
+    "middleInitial": "",
+    "lastName": "Rubio",
+    "party": "R",
+    "state": "FL",
+    "district": null
+  },
+  {
+    "bioguide": "S000033",
+    "type": "sen",
+    "firstName": "Bernie ",
+    "middleInitial": "",
+    "lastName": "Sanders",
+    "party": "I",
+    "state": "VT",
+    "district": null
+  },
+  {
+    "bioguide": "S000168",
+    "type": "rep",
+    "firstName": "Maria Elvira",
+    "middleInitial": "",
+    "lastName": "Salazar",
+    "party": "R",
+    "state": "FL",
+    "district": 27
+  },
+  {
+    "bioguide": "S000185",
+    "type": "rep",
+    "firstName": "Robert C. “Bobby”",
+    "middleInitial": "",
+    "lastName": "Scott",
+    "party": "D",
+    "state": "VA",
+    "district": 3
+  },
+  {
+    "bioguide": "S000250",
+    "type": "rep",
+    "firstName": "Pete",
+    "middleInitial": "",
+    "lastName": "Sessions",
+    "party": "R",
+    "state": "TX",
+    "district": 17
+  },
+  {
+    "bioguide": "S000344",
+    "type": "rep",
+    "firstName": "Brad",
+    "middleInitial": "",
+    "lastName": "Sherman",
+    "party": "D",
+    "state": "CA",
+    "district": 32
+  },
+  {
+    "bioguide": "S000510",
+    "type": "rep",
+    "firstName": "Adam",
+    "middleInitial": "",
+    "lastName": "Smith",
+    "party": "D",
+    "state": "WA",
+    "district": 9
+  },
+  {
+    "bioguide": "S000522",
+    "type": "rep",
+    "firstName": "Christopher H.",
+    "middleInitial": "",
+    "lastName": "Smith",
+    "party": "R",
+    "state": "NJ",
+    "district": 4
+  },
+  {
+    "bioguide": "S001194",
+    "type": "sen",
+    "firstName": "Brian ",
+    "middleInitial": "",
+    "lastName": "Schatz",
+    "party": "D",
+    "state": "HI",
+    "district": null
+  },
+  {
+    "bioguide": "S000929",
+    "type": "rep",
+    "firstName": "Victoria",
+    "middleInitial": "",
+    "lastName": "Spartz",
+    "party": "R",
+    "state": "IN",
+    "district": 5
+  },
+  {
+    "bioguide": "S001135",
+    "type": "rep",
+    "firstName": "Michelle",
+    "middleInitial": "",
+    "lastName": "Steel",
+    "party": "R",
+    "state": "CA",
+    "district": 45
+  },
+  {
+    "bioguide": "S001145",
+    "type": "rep",
+    "firstName": "Jan",
+    "middleInitial": "",
+    "lastName": "Schakowsky",
+    "party": "D",
+    "state": "IL",
+    "district": 9
+  },
+  {
+    "bioguide": "S001148",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Simpson",
+    "party": "R",
+    "state": "ID",
+    "district": 2
+  },
+  {
+    "bioguide": "S001150",
+    "type": "rep",
+    "firstName": "Adam B.",
+    "middleInitial": "",
+    "lastName": "Schiff",
+    "party": "D",
+    "state": "CA",
+    "district": 30
+  },
+  {
+    "bioguide": "S001156",
+    "type": "rep",
+    "firstName": "Linda T.",
+    "middleInitial": "",
+    "lastName": "Sánchez",
+    "party": "D",
+    "state": "CA",
+    "district": 38
+  },
+  {
+    "bioguide": "S001157",
+    "type": "rep",
+    "firstName": "David",
+    "middleInitial": "",
+    "lastName": "Scott",
+    "party": "D",
+    "state": "GA",
+    "district": 13
+  },
+  {
+    "bioguide": "S001159",
+    "type": "rep",
+    "firstName": "Marilyn",
+    "middleInitial": "",
+    "lastName": "Strickland",
+    "party": "D",
+    "state": "WA",
+    "district": 10
+  },
+  {
+    "bioguide": "S001168",
+    "type": "rep",
+    "firstName": "John",
+    "middleInitial": "",
+    "lastName": "Sarbanes",
+    "party": "D",
+    "state": "MD",
+    "district": 3
+  },
+  {
+    "bioguide": "S001172",
+    "type": "rep",
+    "firstName": "Adrian",
+    "middleInitial": "",
+    "lastName": "Smith",
+    "party": "R",
+    "state": "NE",
+    "district": 3
+  },
+  {
+    "bioguide": "S001176",
+    "type": "rep",
+    "firstName": "Steve",
+    "middleInitial": "",
+    "lastName": "Scalise",
+    "party": "R",
+    "state": "LA",
+    "district": 1
+  },
+  {
+    "bioguide": "S001227",
+    "type": "sen",
+    "firstName": "Eric",
+    "middleInitial": "",
+    "lastName": "Schmitt",
+    "party": "R",
+    "state": "MO",
+    "district": null
+  },
+  {
+    "bioguide": "S001183",
+    "type": "rep",
+    "firstName": "David",
+    "middleInitial": "",
+    "lastName": "Schweikert",
+    "party": "R",
+    "state": "AZ",
+    "district": 1
+  },
+  {
+    "bioguide": "S000148",
+    "type": "sen",
+    "firstName": "Charles E. ",
+    "middleInitial": "",
+    "lastName": "Schumer",
+    "party": "D",
+    "state": "NY",
+    "district": null
+  },
+  {
+    "bioguide": "S001185",
+    "type": "rep",
+    "firstName": "Terri A.",
+    "middleInitial": "",
+    "lastName": "Sewell",
+    "party": "D",
+    "state": "AL",
+    "district": 7
+  },
+  {
+    "bioguide": "S001189",
+    "type": "rep",
+    "firstName": "Austin",
+    "middleInitial": "",
+    "lastName": "Scott",
+    "party": "R",
+    "state": "GA",
+    "district": 8
+  },
+  {
+    "bioguide": "S001190",
+    "type": "rep",
+    "firstName": "Bradley",
+    "middleInitial": "",
+    "lastName": "Schneider",
+    "party": "D",
+    "state": "IL",
+    "district": 10
+  },
+  {
+    "bioguide": "S001184",
+    "type": "sen",
+    "firstName": "Tim ",
+    "middleInitial": "",
+    "lastName": "Scott",
+    "party": "R",
+    "state": "SC",
+    "district": null
+  },
+  {
+    "bioguide": "S001192",
+    "type": "rep",
+    "firstName": "Chris",
+    "middleInitial": "",
+    "lastName": "Stewart",
+    "party": "R",
+    "state": "UT",
+    "district": 2
+  },
+  {
+    "bioguide": "S001193",
+    "type": "rep",
+    "firstName": "Eric",
+    "middleInitial": "",
+    "lastName": "Swalwell",
+    "party": "D",
+    "state": "CA",
+    "district": 14
+  },
+  {
+    "bioguide": "S001217",
+    "type": "sen",
+    "firstName": "Rick",
+    "middleInitial": "",
+    "lastName": "Scott",
+    "party": "R",
+    "state": "FL",
+    "district": null
+  },
+  {
+    "bioguide": "S001195",
+    "type": "rep",
+    "firstName": "Jason T.",
+    "middleInitial": "",
+    "lastName": "Smith",
+    "party": "R",
+    "state": "MO",
+    "district": 8
+  },
+  {
+    "bioguide": "S001196",
+    "type": "rep",
+    "firstName": "Elise",
+    "middleInitial": "",
+    "lastName": "Stefanik",
+    "party": "R",
+    "state": "NY",
+    "district": 21
+  },
+  {
+    "bioguide": "S001181",
+    "type": "sen",
+    "firstName": "Jeanne ",
+    "middleInitial": "",
+    "lastName": "Shaheen",
+    "party": "D",
+    "state": "NH",
+    "district": null
+  },
+  {
+    "bioguide": "S001199",
+    "type": "rep",
+    "firstName": "Lloyd",
+    "middleInitial": "",
+    "lastName": "Smucker",
+    "party": "R",
+    "state": "PA",
+    "district": 11
+  },
+  {
+    "bioguide": "S001200",
+    "type": "rep",
+    "firstName": "Darren",
+    "middleInitial": "",
+    "lastName": "Soto",
+    "party": "D",
+    "state": "FL",
+    "district": 9
+  },
+  {
+    "bioguide": "S001191",
+    "type": "sen",
+    "firstName": "Kyrsten ",
+    "middleInitial": "",
+    "lastName": "Sinema",
+    "party": "I",
+    "state": "AZ",
+    "district": null
+  },
+  {
+    "bioguide": "S001205",
+    "type": "rep",
+    "firstName": "Mary Gay",
+    "middleInitial": "",
+    "lastName": "Scanlon",
+    "party": "D",
+    "state": "PA",
+    "district": 5
+  },
+  {
+    "bioguide": "S001207",
+    "type": "rep",
+    "firstName": "Mikie",
+    "middleInitial": "",
+    "lastName": "Sherrill",
+    "party": "D",
+    "state": "NJ",
+    "district": 11
+  },
+  {
+    "bioguide": "S001208",
+    "type": "rep",
+    "firstName": "Elissa",
+    "middleInitial": "",
+    "lastName": "Slotkin",
+    "party": "D",
+    "state": "MI",
+    "district": 7
+  },
+  {
+    "bioguide": "S001209",
+    "type": "rep",
+    "firstName": "Abigail",
+    "middleInitial": "",
+    "lastName": "Spanberger",
+    "party": "D",
+    "state": "VA",
+    "district": 7
+  },
+  {
+    "bioguide": "S001211",
+    "type": "rep",
+    "firstName": "Greg",
+    "middleInitial": "",
+    "lastName": "Stanton",
+    "party": "D",
+    "state": "AZ",
+    "district": 4
+  },
+  {
+    "bioguide": "S001212",
+    "type": "rep",
+    "firstName": "Pete",
+    "middleInitial": "",
+    "lastName": "Stauber",
+    "party": "R",
+    "state": "MN",
+    "district": 8
+  },
+  {
+    "bioguide": "S001213",
+    "type": "rep",
+    "firstName": "Bryan",
+    "middleInitial": "",
+    "lastName": "Steil",
+    "party": "R",
+    "state": "WI",
+    "district": 1
+  },
+  {
+    "bioguide": "S001214",
+    "type": "rep",
+    "firstName": "Greg",
+    "middleInitial": "",
+    "lastName": "Steube",
+    "party": "R",
+    "state": "FL",
+    "district": 17
+  },
+  {
+    "bioguide": "S001215",
+    "type": "rep",
+    "firstName": "Haley",
+    "middleInitial": "",
+    "lastName": "Stevens",
+    "party": "D",
+    "state": "MI",
+    "district": 11
+  },
+  {
+    "bioguide": "S001216",
+    "type": "rep",
+    "firstName": "Kim",
+    "middleInitial": "",
+    "lastName": "Schrier",
+    "party": "D",
+    "state": "WA",
+    "district": 8
+  },
+  {
+    "bioguide": "S001203",
+    "type": "sen",
+    "firstName": "Tina ",
+    "middleInitial": "",
+    "lastName": "Smith",
+    "party": "D",
+    "state": "MN",
+    "district": null
+  },
+  {
+    "bioguide": "S001218",
+    "type": "rep",
+    "firstName": "Melanie",
+    "middleInitial": "",
+    "lastName": "Stansbury",
+    "party": "D",
+    "state": "NM",
+    "district": 1
+  },
+  {
+    "bioguide": "S001220",
+    "type": "rep",
+    "firstName": "Dale",
+    "middleInitial": "",
+    "lastName": "Strong",
+    "party": "R",
+    "state": "AL",
+    "district": 5
+  },
+  {
+    "bioguide": "S001221",
+    "type": "rep",
+    "firstName": "Hillary",
+    "middleInitial": "",
+    "lastName": "Scholten",
+    "party": "D",
+    "state": "MI",
+    "district": 3
+  },
+  {
+    "bioguide": "S001222",
+    "type": "rep",
+    "firstName": "George",
+    "middleInitial": "",
+    "lastName": "Santos",
+    "party": "R",
+    "state": "NY",
+    "district": 3
+  },
+  {
+    "bioguide": "S001223",
+    "type": "rep",
+    "firstName": "Emilia",
+    "middleInitial": "",
+    "lastName": "Sykes",
+    "party": "D",
+    "state": "OH",
+    "district": 13
+  },
+  {
+    "bioguide": "S001224",
+    "type": "rep",
+    "firstName": "Keith",
+    "middleInitial": "",
+    "lastName": "Self",
+    "party": "R",
+    "state": "TX",
+    "district": 3
+  },
+  {
+    "bioguide": "S001225",
+    "type": "rep",
+    "firstName": "Eric ",
+    "middleInitial": "",
+    "lastName": "Sorensen",
+    "party": "D",
+    "state": "IL",
+    "district": 17
+  },
+  {
+    "bioguide": "S001226",
+    "type": "rep",
+    "firstName": "Andrea",
+    "middleInitial": "",
+    "lastName": "Salinas",
+    "party": "D",
+    "state": "OR",
+    "district": 6
+  },
+  {
+    "bioguide": "S000770",
+    "type": "sen",
+    "firstName": "Debbie ",
+    "middleInitial": "",
+    "lastName": "Stabenow",
+    "party": "D",
+    "state": "MI",
+    "district": null
+  },
+  {
+    "bioguide": "T000165",
+    "type": "rep",
+    "firstName": "Tom",
+    "middleInitial": "",
+    "lastName": "Tiffany",
+    "party": "R",
+    "state": "WI",
+    "district": 7
+  },
+  {
+    "bioguide": "T000193",
+    "type": "rep",
+    "firstName": "Bennie",
+    "middleInitial": "",
+    "lastName": "Thompson",
+    "party": "D",
+    "state": "MS",
+    "district": 2
+  },
+  {
+    "bioguide": "S001198",
+    "type": "sen",
+    "firstName": "Dan ",
+    "middleInitial": "",
+    "lastName": "Sullivan",
+    "party": "R",
+    "state": "AK",
+    "district": null
+  },
+  {
+    "bioguide": "T000464",
+    "type": "sen",
+    "firstName": "Jon ",
+    "middleInitial": "",
+    "lastName": "Tester",
+    "party": "D",
+    "state": "MT",
+    "district": null
+  },
+  {
+    "bioguide": "T000460",
+    "type": "rep",
+    "firstName": "Mike",
+    "middleInitial": "",
+    "lastName": "Thompson",
+    "party": "D",
+    "state": "CA",
+    "district": 4
+  },
+  {
+    "bioguide": "T000463",
+    "type": "rep",
+    "firstName": "Michael R.",
+    "middleInitial": "",
+    "lastName": "Turner",
+    "party": "R",
+    "state": "OH",
+    "district": 10
+  },
+  {
+    "bioguide": "T000250",
+    "type": "sen",
+    "firstName": "John ",
+    "middleInitial": "",
+    "lastName": "Thune",
+    "party": "R",
+    "state": "SD",
+    "district": null
+  },
+  {
+    "bioguide": "T000467",
+    "type": "rep",
+    "firstName": "Glenn",
+    "middleInitial": "",
+    "lastName": "Thompson",
+    "party": "R",
+    "state": "PA",
+    "district": 15
+  },
+  {
+    "bioguide": "T000468",
+    "type": "rep",
+    "firstName": "Dina",
+    "middleInitial": "",
+    "lastName": "Titus",
+    "party": "D",
+    "state": "NV",
+    "district": 1
+  },
+  {
+    "bioguide": "T000469",
+    "type": "rep",
+    "firstName": "Paul",
+    "middleInitial": "",
+    "lastName": "Tonko",
+    "party": "D",
+    "state": "NY",
+    "district": 20
+  },
+  {
+    "bioguide": "T000472",
+    "type": "rep",
+    "firstName": "Mark",
+    "middleInitial": "",
+    "lastName": "Takano",
+    "party": "D",
+    "state": "CA",
+    "district": 39
+  },
+  {
+    "bioguide": "T000474",
+    "type": "rep",
+    "firstName": "Norma J.",
+    "middleInitial": "",
+    "lastName": "Torres",
+    "party": "D",
+    "state": "CA",
+    "district": 35
+  },
+  {
+    "bioguide": "T000476",
+    "type": "sen",
+    "firstName": "Thom ",
+    "middleInitial": "",
+    "lastName": "Tillis",
+    "party": "R",
+    "state": "NC",
+    "district": null
+  },
+  {
+    "bioguide": "T000478",
+    "type": "rep",
+    "firstName": "Claudia",
+    "middleInitial": "",
+    "lastName": "Tenney",
+    "party": "R",
+    "state": "NY",
+    "district": 24
+  },
+  {
+    "bioguide": "T000480",
+    "type": "rep",
+    "firstName": "William",
+    "middleInitial": "",
+    "lastName": "Timmons",
+    "party": "R",
+    "state": "SC",
+    "district": 4
+  },
+  {
+    "bioguide": "T000481",
+    "type": "rep",
+    "firstName": "Rashida",
+    "middleInitial": "",
+    "lastName": "Tlaib",
+    "party": "D",
+    "state": "MI",
+    "district": 12
+  },
+  {
+    "bioguide": "T000482",
+    "type": "rep",
+    "firstName": "Lori",
+    "middleInitial": "",
+    "lastName": "Trahan",
+    "party": "D",
+    "state": "MA",
+    "district": 3
+  },
+  {
+    "bioguide": "T000483",
+    "type": "rep",
+    "firstName": "David",
+    "middleInitial": "",
+    "lastName": "Trone",
+    "party": "D",
+    "state": "MD",
+    "district": 6
+  },
+  {
+    "bioguide": "T000486",
+    "type": "rep",
+    "firstName": "Ritchie",
+    "middleInitial": "",
+    "lastName": "Torres",
+    "party": "D",
+    "state": "NY",
+    "district": 15
+  },
+  {
+    "bioguide": "T000487",
+    "type": "rep",
+    "firstName": "Jill",
+    "middleInitial": "",
+    "lastName": "Tokuda",
+    "party": "D",
+    "state": "HI",
+    "district": 2
+  },
+  {
+    "bioguide": "T000488",
+    "type": "rep",
+    "firstName": "Shri",
+    "middleInitial": "",
+    "lastName": "Thanedar",
+    "party": "D",
+    "state": "MI",
+    "district": 13
+  },
+  {
+    "bioguide": "U000040",
+    "type": "rep",
+    "firstName": "Lauren",
+    "middleInitial": "",
+    "lastName": "Underwood",
+    "party": "D",
+    "state": "IL",
+    "district": 14
+  },
+  {
+    "bioguide": "V000081",
+    "type": "rep",
+    "firstName": "Nydia M.",
+    "middleInitial": "",
+    "lastName": "Velázquez",
+    "party": "D",
+    "state": "NY",
+    "district": 7
+  },
+  {
+    "bioguide": "T000278",
+    "type": "sen",
+    "firstName": "Tommy",
+    "middleInitial": "",
+    "lastName": "Tuberville",
+    "party": "R",
+    "state": "AL",
+    "district": null
+  },
+  {
+    "bioguide": "V000129",
+    "type": "rep",
+    "firstName": "David G.",
+    "middleInitial": "",
+    "lastName": "Valadao",
+    "party": "R",
+    "state": "CA",
+    "district": 22
+  },
+  {
+    "bioguide": "V000130",
+    "type": "rep",
+    "firstName": "Juan",
+    "middleInitial": "",
+    "lastName": "Vargas",
+    "party": "D",
+    "state": "CA",
+    "district": 52
+  },
+  {
+    "bioguide": "V000131",
+    "type": "rep",
+    "firstName": "Marc",
+    "middleInitial": "",
+    "lastName": "Veasey",
+    "party": "D",
+    "state": "TX",
+    "district": 33
+  },
+  {
+    "bioguide": "V000133",
+    "type": "rep",
+    "firstName": "Jeff",
+    "middleInitial": "",
+    "lastName": "Van Drew",
+    "party": "R",
+    "state": "NJ",
+    "district": 2
+  },
+  {
+    "bioguide": "V000134",
+    "type": "rep",
+    "firstName": "Beth",
+    "middleInitial": "",
+    "lastName": "Van Duyne",
+    "party": "R",
+    "state": "TX",
+    "district": 24
+  },
+  {
+    "bioguide": "V000135",
+    "type": "rep",
+    "firstName": "Derrick",
+    "middleInitial": "",
+    "lastName": "Van Orden",
+    "party": "R",
+    "state": "WI",
+    "district": 3
+  },
+  {
+    "bioguide": "V000136",
+    "type": "rep",
+    "firstName": "Gabriel",
+    "middleInitial": "",
+    "lastName": "Vasquez",
+    "party": "D",
+    "state": "NM",
+    "district": 2
+  },
+  {
+    "bioguide": "V000128",
+    "type": "sen",
+    "firstName": "Chris ",
+    "middleInitial": "",
+    "lastName": "Van Hollen",
+    "party": "D",
+    "state": "MD",
+    "district": null
+  },
+  {
+    "bioguide": "W000187",
+    "type": "rep",
+    "firstName": "Maxine",
+    "middleInitial": "",
+    "lastName": "Waters",
+    "party": "D",
+    "state": "CA",
+    "district": 43
+  },
+  {
+    "bioguide": "V000137",
+    "type": "sen",
+    "firstName": "J.D.",
+    "middleInitial": "",
+    "lastName": "Vance",
+    "party": "R",
+    "state": "OH",
+    "district": null
+  },
+  {
+    "bioguide": "W000805",
+    "type": "sen",
+    "firstName": "Mark R. ",
+    "middleInitial": "",
+    "lastName": "Warner",
+    "party": "D",
+    "state": "VA",
+    "district": null
+  },
+  {
+    "bioguide": "W000788",
+    "type": "rep",
+    "firstName": "Nikema",
+    "middleInitial": "",
+    "lastName": "Williams",
+    "party": "D",
+    "state": "GA",
+    "district": 5
+  },
+  {
+    "bioguide": "W000790",
+    "type": "sen",
+    "firstName": "Raphael G.",
+    "middleInitial": "",
+    "lastName": "Warnock",
+    "party": "D",
+    "state": "GA",
+    "district": null
+  },
+  {
+    "bioguide": "W000795",
+    "type": "rep",
+    "firstName": "Joe",
+    "middleInitial": "",
+    "lastName": "Wilson",
+    "party": "R",
+    "state": "SC",
+    "district": 2
+  },
+  {
+    "bioguide": "W000797",
+    "type": "rep",
+    "firstName": "Debbie",
+    "middleInitial": "",
+    "lastName": "Wasserman Schultz",
+    "party": "D",
+    "state": "FL",
+    "district": 25
+  },
+  {
+    "bioguide": "W000798",
+    "type": "rep",
+    "firstName": "Tim",
+    "middleInitial": "",
+    "lastName": "Walberg",
+    "party": "R",
+    "state": "MI",
+    "district": 5
+  },
+  {
+    "bioguide": "W000817",
+    "type": "sen",
+    "firstName": "Elizabeth ",
+    "middleInitial": "",
+    "lastName": "Warren",
+    "party": "D",
+    "state": "MA",
+    "district": null
+  },
+  {
+    "bioguide": "W000800",
+    "type": "sen",
+    "firstName": "Peter",
+    "middleInitial": "",
+    "lastName": "Welch",
+    "party": "D",
+    "state": "VT",
+    "district": null
+  },
+  {
+    "bioguide": "W000804",
+    "type": "rep",
+    "firstName": "Rob",
+    "middleInitial": "",
+    "lastName": "Wittman",
+    "party": "R",
+    "state": "VA",
+    "district": 1
+  },
+  {
+    "bioguide": "W000802",
+    "type": "sen",
+    "firstName": "Sheldon ",
+    "middleInitial": "",
+    "lastName": "Whitehouse",
+    "party": "D",
+    "state": "RI",
+    "district": null
+  },
+  {
+    "bioguide": "W000806",
+    "type": "rep",
+    "firstName": "Daniel",
+    "middleInitial": "",
+    "lastName": "Webster",
+    "party": "R",
+    "state": "FL",
+    "district": 11
+  },
+  {
+    "bioguide": "W000808",
+    "type": "rep",
+    "firstName": "Frederica S.",
+    "middleInitial": "",
+    "lastName": "Wilson",
+    "party": "D",
+    "state": "FL",
+    "district": 24
+  },
+  {
+    "bioguide": "W000809",
+    "type": "rep",
+    "firstName": "Steve",
+    "middleInitial": "",
+    "lastName": "Womack",
+    "party": "R",
+    "state": "AR",
+    "district": 3
+  },
+  {
+    "bioguide": "W000812",
+    "type": "rep",
+    "firstName": "Ann",
+    "middleInitial": "",
+    "lastName": "Wagner",
+    "party": "R",
+    "state": "MO",
+    "district": 2
+  },
+  {
+    "bioguide": "W000814",
+    "type": "rep",
+    "firstName": "Randy",
+    "middleInitial": "",
+    "lastName": "Weber",
+    "party": "R",
+    "state": "TX",
+    "district": 14
+  },
+  {
+    "bioguide": "W000815",
+    "type": "rep",
+    "firstName": "Brad",
+    "middleInitial": "",
+    "lastName": "Wenstrup",
+    "party": "R",
+    "state": "OH",
+    "district": 2
+  },
+  {
+    "bioguide": "W000816",
+    "type": "rep",
+    "firstName": "Roger",
+    "middleInitial": "",
+    "lastName": "Williams",
+    "party": "R",
+    "state": "TX",
+    "district": 25
+  },
+  {
+    "bioguide": "W000437",
+    "type": "sen",
+    "firstName": "Roger ",
+    "middleInitial": "",
+    "lastName": "Wicker",
+    "party": "R",
+    "state": "MS",
+    "district": null
+  },
+  {
+    "bioguide": "W000821",
+    "type": "rep",
+    "firstName": "Bruce",
+    "middleInitial": "",
+    "lastName": "Westerman",
+    "party": "R",
+    "state": "AR",
+    "district": 4
+  },
+  {
+    "bioguide": "W000822",
+    "type": "rep",
+    "firstName": "Bonnie",
+    "middleInitial": "",
+    "lastName": "Watson Coleman",
+    "party": "D",
+    "state": "NJ",
+    "district": 12
+  },
+  {
+    "bioguide": "W000823",
+    "type": "rep",
+    "firstName": "Michael",
+    "middleInitial": "",
+    "lastName": "Waltz",
+    "party": "R",
+    "state": "FL",
+    "district": 6
+  },
+  {
+    "bioguide": "W000825",
+    "type": "rep",
+    "firstName": "Jennifer",
+    "middleInitial": "",
+    "lastName": "Wexton",
+    "party": "D",
+    "state": "VA",
+    "district": 10
+  },
+  {
+    "bioguide": "W000826",
+    "type": "rep",
+    "firstName": "Susan",
+    "middleInitial": "",
+    "lastName": "Wild",
+    "party": "D",
+    "state": "PA",
+    "district": 7
+  },
+  {
+    "bioguide": "W000828",
+    "type": "rep",
+    "firstName": "Brandon",
+    "middleInitial": "",
+    "lastName": "Williams",
+    "party": "R",
+    "state": "NY",
+    "district": 22
+  },
+  {
+    "bioguide": "W000779",
+    "type": "sen",
+    "firstName": "Ron ",
+    "middleInitial": "",
+    "lastName": "Wyden",
+    "party": "D",
+    "state": "OR",
+    "district": null
+  },
+  {
+    "bioguide": "Y000067",
+    "type": "rep",
+    "firstName": "Rudy",
+    "middleInitial": "",
+    "lastName": "Yakym",
+    "party": "R",
+    "state": "IN",
+    "district": 2
+  },
+  {
+    "bioguide": "Z000018",
+    "type": "rep",
+    "firstName": "Ryan",
+    "middleInitial": "",
+    "lastName": "Zinke",
+    "party": "R",
+    "state": "MT",
+    "district": 1
+  },
+  {
+    "bioguide": "Y000064",
+    "type": "sen",
+    "firstName": "Todd C. ",
+    "middleInitial": "",
+    "lastName": "Young",
+    "party": "R",
+    "state": "IN",
+    "district": null
+  },
+  {
+    "bioguide": "M001227",
+    "type": "rep",
+    "firstName": "Jennifer",
+    "middleInitial": "",
+    "lastName": "McClellan",
+    "party": "D",
+    "state": "VA",
+    "district": 4
+  }
+ ]

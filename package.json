@@ -1,0 +1,25 @@
+{
+  "name": "congress-photos",
+  "version": "1.0.0",
+  "description": "Utility to look up photos of current members of Congress by bioguide or name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kt-prry/congress-photos.git"
+  },
+  "keywords": [
+    "congress"
+  ],
+  "author": "Kati Perry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kt-prry/congress-photos/issues"
+  },
+  "homepage": "https://github.com/kt-prry/congress-photos#readme",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
