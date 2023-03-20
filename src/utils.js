@@ -2,21 +2,21 @@ const constructUrl = (bg, last, size) => {
   return `https://www.fake-url.s3/${bg}_${last}_${size}.png`
 }
 
-const reduceMems = (allMembers, objKey) => {
+const reduceMems = (allMembers, keyBy) => {
   const reshaped = allMembers.reduce((members, member) => {
     const { bioguide, firstName, lastName } = member
     const images = {
       sm: constructUrl(bioguide, lastName, 150),
       med: constructUrl(bioguide, lastName, 300),
     }
-    const key = member[objKey]
+    const key = member[keyBy]
     
-    if (objKey === 'fullName') {
+    if (keyBy === 'fullName') {
       const fullName = `${firstName} ${lastName}`
       members[fullName] = {...member, images}
     }
     
-    if (objKey === 'last') {
+    if (keyBy === 'last') {
       members[lastName] = members[lastName] || []
       members[lastName].push({...member, images})
     }
