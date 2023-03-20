@@ -1,58 +1,43 @@
-const memberDetails = require('./members_of_congress.json')
+const allMembers = require('./members_of_congress.json')
+const { reduceMems, sortWithImgUrls } = require('./utils')
 
-const constructUrl = (bg, last, size) => {
-  return `https://www.fake-url.s3/${bg}_${last}_${size}.png`
-}
+const sortedMembers = sortWithImgUrls(allMembers)
 
-const reduceMems = (data, objKey) => {
-  const reshaped = data.reduce((members, member) => {
-    const { bioguide, firstName, lastName } = member
-    const images = {
-      sm: constructUrl(bioguide, lastName, 150),
-      med: constructUrl(bioguide, lastName, 300),
-    }
-    const key = member[objKey]
-    
-    if (objKey === 'fullName') {
-      const fullName = `${firstName} ${lastName}`
-      members[fullName] = {...member, images}
-    }
-    
-    if (objKey === 'last') {
-      members[lastName] = members[lastName] || []
-      members[lastName].push({...member, images})
-    }
-    
-    members[key] = {...member, images}
-    return members
-  }, {})
-  return reshaped
-}
-
-const membersByBioguide = reduceMems(memberDetails, 'bioguide')
-const membersByFullName = reduceMems(memberDetails, 'fullName')
-const membersByLastNames = reduceMems(memberDetails, 'last')
+const membersByBioguide = reduceMems(allMembers, 'bioguide')
+const membersByFullName = reduceMems(allMembers, 'fullName')
+const membersByLastNames = reduceMems(allMembers, 'last')
 
 const bioguides = Object.keys(membersByBioguide)
 const fullNames = Object.keys(membersByFullName)
 const lastNames = Object.keys(membersByLastNames)
 
-const memberLookup = (value, st) => {
+const memberLookup = (value, opts) => {
   if (bioguides.includes(value)) return membersByBioguide[value]
   if (fullNames.includes(value)) return membersByFullName[value]
   if (lastNames.includes(value)) {
     const matchingMems = membersByLastNames[value]
     const multipleMems = matchingMems.length > 1
     if (multipleMems) {
-      if (!st) throw Error('Pass the state argument to find the correct member')
-      const memFromState = matchingMems.find(mem => mem.state === st)
-      if (memFromState.length < 1) throw Error('There are no members with the specified last name from the specified state')
+      if (!opts) throw Error('Designate a body or state to find the correct member')
+      const { state, body } = opts
+      const memFromState = matchingMems
+        .filter(mem => state ? mem.state === state : mem)
+        .filter(mem => body ? mem.type === body : mem)
+      
+      if (memFromState.length < 1) throw Error('There are no members matching the stated options')
       return memFromState
     }
     return multipleMems
   }
 }
 
+const bodyLookup = body => {
+  const membersInBody = sortedMembers.filter(mem => mem.type === body)
+  return membersInBody
+}
+
 module.exports = {
   memberLookup,
+  bodyLookup,
+  members: sortedMembers,
 }

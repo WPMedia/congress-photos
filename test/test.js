@@ -1,7 +1,9 @@
-var assert = require('assert');
-var { memberLookup } = require('../');
+const { memberLookup, bodyLookup, members } = require('../')
 
-// console.log(memberLookup('M001227'))
+// console.log(memberLookup('S001184'))
 // console.log(memberLookup(''))
 // console.log(memberLookup('Jennifer McClellan'))
-console.log(memberLookup('Scott', 'FL'))
+console.log(memberLookup('Scott', { body: 'sen', state: 'SC' }))
+
+// console.log(bodyLookup('sen'))
+console.log(members)
