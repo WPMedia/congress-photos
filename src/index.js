@@ -28,7 +28,7 @@ const memberLookup = (value, opts = {}) => {
       if (memsFromOpts.length === 1) return memsFromOpts[0]
       return memsFromOpts
     }
-    return multipleMems
+    return matchingMems
   }
 }
 
